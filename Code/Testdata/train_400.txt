@@ -1,0 +1,400 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1561
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Magali/NPP et/CC le/DET pain/NC de/P 8/DET kg/NC et/CC 1,40/DET m/NC !/PONCT\
+La/DET Saint-Honor\'e9/NPP ,/PONCT aucun/DET boulanger/NC ne/ADV la/DET manque/NC ./PONCT\
+Et/CC chacun/PRO d\'e9montre/V ses/DET capacit\'e9s/NC \'e0/P cuire/VINF le/DET bon/ADJ pain/NC ./PONCT\
+Chez/P Devriendt/NPP ,/PONCT les/DET clients/NC ont/V appr\'e9ci\'e9/VPP la/DET qualit\'e9/NC des/P+D petits/ADJ pains/NC offerts/VPP en/P d\'e9gustation/NC et/CC ont/V jet\'e9/VPP l'/DET il/CLS sur/P les/DET miches/NC d\'e9cor\'e9es/VPP des/P+D couleurs/NC du/P+D monde/NC ./PONCT\
+Chez/P Malyk/NPP ,/PONCT on/CLS a/V rivalis\'e9/VPP d'/P adresse/NC pour/P enfourner/VINF sur/P le/DET sol/NC de/P pierre/NC r\'e9fractaire/ADJ d'/P un/DET four/NC traditionnel/ADJ deux/ADJ pains/NC de/P 8/DET kg/NC ,/PONCT et/CC mesurant/VPR chacun/PRO 1,40/DET m\'e8tre/NC !/PONCT\
+Dame/NC ,/PONCT Magali/NPP ,/PONCT l'/DET \'e9pouse/NC de/P S\'e9bastien/NPP ,/PONCT ne/ADV cache/V pas/ADV sa/DET surprise/NC ,/PONCT car/CC dans/P chacune/PRO des/P+D vitrines/NC de/P la/DET rue/NC Sarrail/NPP ou/CC de/P la/DET rue/NC De/P Gaulle/NPP ,/PONCT un/DET pain/NC de/P cette/DET taille/NC ,/PONCT \'e7a/PRO impressionne/V !/PONCT\
+Et/CC pour/P le/CLO mener/VINF \'e0_terme/ADV ,/PONCT avant_de/P l'/CLO exposer/VINF ,/PONCT il/CLS n'/ADV aura/V pas/ADV fallu/VPP moins/ADV de/P deux/DET heures/NC de/P cuisson/NC ,/PONCT avec/P une/DET surveillance/NC de/P chaque/DET instant/NC pour/P v\'e9rifier/VINF que/CS la/DET p\'e2te/NC levait/V correctement/ADV en/P prenant/VPR la/DET belle/ADJ teinte/NC dor\'e9e/VPP d'/P une/DET cro\'fbte/NC all\'e9chante/ADJ ./PONCT\
+La/DET boulange/NC ?/PONCT\
+Un/DET art/NC sacr\'e9/ADJ surveill\'e9/VPP par/P Honor\'e9/NPP ,/PONCT son/DET saint/NC patron/NC ./PONCT\
+L'/DET Est/NC R\'e9publicain/ADJ :/PONCT Alain/NPP Geoffroy/NPP ,/PONCT t\'e9l/NC :/PONCT 03.29.89.27.89/DET ou/CC 03.29.89.44.54/DET ./PONCT\
+M\'e9decin/NC de/P nuit/NC :/PONCT Dr/NC Rousseaux/NPP ,/PONCT t\'e9l/NC :/PONCT 03.29.89.44.39/PRO ./PONCT\
+Pharmacie/NC de/P permanence/NC :/PONCT Dr/NC Moreau/NPP ,/PONCT t\'e9l/NC :/PONCT 03.29.89.41.25/DET ou/CC 03.29.89.45.09/DET ./PONCT\
+ANPE/NC :/PONCT 10/DET h/NC \'e0/P 12/DET h/NC ,/PONCT \'e0/P la/DET Maison/NC du/P+D canton/NC ./PONCT\
+Judo/NPP :/PONCT 17/DET h/NC 15/ADJ -/PONCT 19/ADJ H/NC 45/DET \'e0/P la/DET salle/NC ./PONCT\
+Danse/NC :/PONCT \'e9veil/NC et/CC d\'e9butants/NC ,/PONCT 17/DET h/NC \'e0/P 19/DET h/NC ,/PONCT salle/NC d'/P animation/NC ./PONCT\
+Ecole/NC de/P tennis/NC :/PONCT 16/DET h/NC 30/ADJ -/PONCT 18/DET h/NC 30/ADJ ,/PONCT au/P+D gymnase/NC ./PONCT\
+Scrabble/NC :/PONCT \'e0_partir_de/P 14/DET h/NC \'e0/P l'/DET \'e9cole/NC de/P Tusey/NPP\
+OTSI/NPP (/PONCT visite/NC du/P+D mus\'e9e/NC sur/P demande/NC )/PONCT :/PONCT de/P 10/DET h/NC \'e0/P 12/DET h/NC ,/PONCT et/CC de/P 14/DET h/NC \'e0/P 18/DET h/NC ./PONCT\
+Les/DET premiers/ADJ troph\'e9es/NC du/P+D tennis/NC de/P table/NC\
+Une/DET petite/ADJ balle/NC qui/PROREL fait/V des/DET \'e9mules/NC ./PONCT\
+Depuis_peu/ADV ,/PONCT le/DET tennis/NC de/P table/NC fait/V son/DET trou/NC dans/P le/DET paysage/NC associatif/ADJ ./PONCT\
+Partie/VPP d'/P une/DET initiative/NC personnelle/ADJ ,/PONCT l'/DET id\'e9e/NC de/P cr\'e9er/VINF un/DET club/NC a/V trouv\'e9/VPP l'/DET appui/NC de/P l'/DET association/NC Croq/NPP '/P loisirs/NC pour/P se/CLR d\'e9velopper/VINF ./PONCT\
+Chaque/DET vendredi/NC ,/PONCT de/P nombreux/ADJ pratiquants/NC se/CLR relaient/V sur/P les/DET tables/NC de/P la/DET salle/NC des/P+D Tiercelins/NC lors_des/P entra\'eenements/NC ./PONCT\
+Les/DET plus/ADV jeunes/ADJ participent/V depuis_peu/ADV \'e0/P des/DET comp\'e9titions/NC d\'e9partementales/ADJ ./PONCT\
+Pour/P ne_pas/ADV \'eatre/VINF en/P reste/NC ,/PONCT leurs/DET a\'een\'e9s/NC les/CLO ont/V imit\'e9s/VPP ./PONCT\
+La/DET semaine/NC pass\'e9e/VPP ,/PONCT ils/CLS se/CLR sont/V d\'e9plac\'e9s/VPP \'e0/P Vignot/NPP pour/P disputer/VINF le/DET tournoi/NC d\'e9partemental/ADJ o\'f9/PROREL ils/CLS se/CLR sont/V comport\'e9s/VPP de/P fort/ADJ belle/ADJ mani\'e8re/NC ./PONCT\
+90/DET joueurs/NC ,/PONCT issus/VPP de/P 9/DET clubs/NC meusiens/ADJ avaient/V fait/VPP le/DET d\'e9placement/NC ./PONCT\
+Les/DET Valcolorois/NPP \'e9taient/V au/P+D nombre_de/DET 10/ADJ ./PONCT\
+Dans/P le/DET tableau/NC A/NC (/PONCT n\'e9s/VPP apr\'e8s/P 1985/NC )/PONCT ,/PONCT Johann/NPP Martin/NPP s'/CLR est/V inclin\'e9/VPP de/P justesse/NC en/P finale/ADJ ,/PONCT alors_que/CS dans/P le/DET tableau/NC B/NC promotion/NC ,/PONCT Johan/NPP Farque/NPP s'/CLR imposait/V devant/P Fabrice/NPP Lh\'f4te/NPP et/CC Alain/NPP Delamarche/NPP ./PONCT\
+Dans/P le/DET double/ADJ ,/PONCT les/DET Valcolorois/NPP ont/V ravi/VPP les/DET deux/ADJ premi\'e8res/ADJ places/NC ,/PONCT puisque/CS la/DET paire/NC Delamarche-Steimetz/NPP a/V pris/VPP le/DET meilleur/ADJ sur/P Lh\'f4te-Bodnewicz/NPP ./PONCT\
+De/P quoi/PROWH augurer/VINF d'/P un/DET bel/ADJ avenir/NC pour/P un/DET tout/ADJ jeune/ADJ club/NC .../PONCT\
+Costumes/NC de/P la/DET F\'eate/NC de/P Jeanne/NC\
+La/DET semaine/NC pass\'e9e/VPP ,/PONCT un/DET contretemps/NC a/V rendu/VPP impossible/ADJ le/DET retour/NC des/P+D costumes/NC emprunt\'e9s/VPP au/P+D comit\'e9/NC des/P+D f\'eates/NC ,/PONCT \'e0_l'_occasion_de/P la/DET f\'eate/NC de/P Domr\'e9my/NPP ./PONCT\
+Cette/DET op\'e9ration/NC est/V donc/ADV report\'e9e/VPP au/P+D mercredi/NC 19/ADJ mai/NC ,/PONCT et/CC Fernande/NPP sera/V pr\'e9sente/ADJ \'e0/P l'/DET \'e9cole/NC de/P Tusey/NPP ,/PONCT de/P 16/DET h/NC 30/ADJ \'e0/P 19/DET h/NC ./PONCT\
+Au/P+D filet/NC\
+Les/DET volleyeurs/NC de/P Croq/NPP '/P loisirs/NC poursuivent/V leur/DET route/NC en/P championnat/NC Ufolep/NPP ./PONCT\
+Demain/ADV ,/PONCT les/DET joueurs/NC de/P l'/DET \'e9quipe/NC A/NC recevront/V Commercy/NPP ,/PONCT \'e0/P 20/DET h/NC ,/PONCT au/P+D gymnase/NC du/P+D coll\'e8ge/NC ./PONCT\
+Les/DET joueurs/NC de/P l'/DET \'e9quipe/NC B/NC se/CLR d\'e9placeront/V mercredi/NC \'e0/P Bar/NPP ,/PONCT pour/P y/CLO affronter/VINF la/DET gendarmerie/NC ,/PONCT \'e0/P 20/DET h/NC 15/ADJ ./PONCT\
+Ouverture/NC du/P+D vestiaire/NC\
+Le/DET vestiaire/NC du/P+D Secours/NC catholique/ADJ sera/V ouvert/VPP ,/PONCT le/DET jeudi/NC 20/ADJ mai/NC ,/PONCT de/P 14/DET h/NC \'e0/P 16/DET h/NC ./PONCT\
+Rappelons/NC que/CS le/DET local/ADJ est/V situ\'e9/VPP \'e0/P l'/DET angle/NC de/P la/DET rue/NC P\'e9try/NPP et/CC de/P la/DET rue/NC des/P+D Rondes/NC ./PONCT\
+Les/DET personnes/NC int\'e9ress\'e9es/VPP pourront/V y/CLO trouver/VINF de/P quoi/PROWH se/CLR v\'eatir/VINF \'e0/P peu/ADV de/P frais/NC ,/PONCT et/CC les/DET v\'eatements/NC en/P bon/ADJ \'e9tat/NC d\'e9pos\'e9s/VPP ce/DET jour-l\'e0/NC seront/V les/DET bienvenus/NC ./PONCT\
+AG/NPP de/P la/DET Lorraine/NPP\
+L'/DET assembl\'e9e/NC g\'e9n\'e9rale/ADJ de/P la/DET Lorraine/NPP foot/NC se/CLR d\'e9roulera/V le/DET vendredi/NC 21/ADJ mai/NC ,/PONCT \'e0/P 20/DET h/NC 30/ADJ ,/PONCT au/P+D mille-clubs/NC ./PONCT\
+Y/ET '/ET a/V photo/NC !/PONCT\
+De/DET nouveaux/ADJ clich\'e9s/NC ornent/V le/DET panneau-photos/NC de/P la/DET rue/NC Aristide-Briand/NPP et/CC donnent/V une/DET large/ADJ place/NC \'e0/P l'/DET assembl\'e9e/NC g\'e9n\'e9rale/ADJ du/P+D centre/NC socio-/PREF culturel/ADJ du/P+D pays/NC de/P Revigny/NPP ./PONCT\
+Egalement/ADV \'e0/P l'/DET honneur/NC ,/PONCT parmi/P de/DET nombreux/ADJ autres/ADJ clich\'e9s/NC ,/PONCT les/DET c\'e9r\'e9monies/NC du/P+D 8/NC Mai/NPP ,/PONCT le/DET visage/NC souriant/ADJ de/P la/DET police/NC municipale/ADJ .../PONCT\
+\'e0/P voir/VINF sans/P attendre/VINF !/PONCT\
+Remportant/VPR tous/ADJ les/DET suffrages/NC du/P+D bon/ADJ go\'fbt/NC ,/PONCT le/DET pain/NC a/V fait/VPP son/DET festival/NC chez/P les/DET artisans/NC boulangers/NC de/P la/DET place/NC ./PONCT\
+La/DET palme/NC de/P la/DET solidarit\'e9/NC revient/V aux/P+D b\'e9n\'e9voles/NC du/P+D Lions-Club/NPP ,/PONCT ex-aequo/CC avec/P les/DET \'e9coliers/NC et/CC les/DET p\'eacheurs/NC ,/PONCT rares/ADJ acteurs/NC d'/P un/DET nettoyage/NC de/P printemps/NC boud\'e9/VPP ./PONCT\
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX/ADJ\
+Assistante/NC SNCF/NPP\
+La/DET permanence/NC de/P Mme/NC Schaff/NPP ,/PONCT assistante/ADJ sociale/ADJ SNCF/NPP ,/PONCT de/P demain/ADV mardi/NC au/P+D centre/NC d'/P action/NC sociale/ADJ SNCF/NPP ,/PONCT 14/ADJ ,/PONCT rue/NC S\'e9bastopol/NPP ,/PONCT est/V annul\'e9e/VPP ./PONCT\
+En_cas_de/P besoin/NC ,/PONCT contacter/VINF le/DET centre/NC d'/P action/NC sociale/ADJ SNCF/NPP de/P Nancy/NPP ,/PONCT t\'e9l./ADV 03.83.22.12.59/ADJ ./PONCT\
+D\'e9chets/NC toxiques/ADJ\
+La/DET collecte/NC des/P+D d\'e9chets/NC toxiques/ADJ m\'e9nagers/ADJ des/P+D particuliers/NC se/CLR d\'e9roulera/V parking/NC des/P+D Minimes/NC ,/PONCT les/DET mardi/NC 26/ADJ et/CC mercredi/NC 27/ADJ mai/NC ./PONCT\
+D\'e9chets/NC accept\'e9s/VPP :/PONCT a\'e9rosols/NC ,/PONCT huiles/NC ,/PONCT peintures/NC ,/PONCT acides/NC et/CC bases/NC ,/PONCT colles/NC ,/PONCT solvants/NC ,/PONCT vernis/NC et/CC laques/NC ,/PONCT thermom\'e8tres/NC \'e0/P mercure/NC ,/PONCT lampes/NC \'e0/P mercure/NC ou/CC \'e0/P gaz/NC rares/ADJ ,/PONCT piles/NC ,/PONCT produits/NC phytosanitaires/ADJ et/CC emballages/NC souill\'e9s/VPP ,/PONCT pesticides/NC et/CC herbicides/NC ./PONCT\
+Marine/NPP nationale/ADJ\
+Le/DET bureau/NC d'/P information/NC sur/P les/DET carri\'e8res/NC de/P la/DET Marine/NPP de/P Nancy/NPP organise/V une/DET permanence/NC ,/PONCT mercredi/NC 19/ADJ mai/NC ,/PONCT \'e0/P l'/DET h\'f4tel/NC de/P ville/NC de/P Bar-le-Duc/NPP ,/PONCT \'e0_partir_de/P 14/DET h/NC ./PONCT\
+La/DET Marine/NPP nationale/ADJ continuera/V \'e0/P avoir/VINF besoin/NC tous/ADJ les/DET ans/NC d'/P environ/ADV 3.400/DET nouveaux/ADJ marins/NC ,/PONCT qu'/CS elle/CLS forme/V \'e0/P une/DET trentaine/NC de/P m\'e9tiers/NC ./PONCT\
+Documentation/NC sociale/ADJ\
+Le/DET centre/NC de/P documentation/NC sociale/ADJ tiendra/V son/DET assembl\'e9e/NC g\'e9n\'e9rale/ADJ ,/PONCT demain/ADV ,/PONCT mardi/NC 18/ADJ mai/NC ,/PONCT \'e0/P 15/DET h/NC ,/PONCT au/P+D ch\'e2teau/NC de/P Marbeaumont/NPP ,/PONCT \'e0/P Bar-le-Duc/NPP ./PONCT\
+\'e0/P cette/DET occasion/NC ,/PONCT Moustapha/NPP Mebarki/NPP ,/PONCT calligraphe/NC \'e0/P \'ab/PONCT Cultures/NPP 21/ADJ \'bb/PONCT (/PONCT Metz/NPP )/PONCT viendra/V pr\'e9senter/VINF \'e0/P l'/DET aide/NC de/P diapositives/NC des/P+D travaux/NC de/P calligraphies/NC effectu\'e9s/VPP par/P des/DET jeunes/NC de/P 16/DET \'e0/P 26/DET ans/NC en/P stage/NC d'/P insertion/NC ,/PONCT ayant/VPR de/P grandes/ADJ difficult\'e9s/NC \'e0/P l'/DET oral/NC et/CC \'e0/P l'/DET \'e9crit/VPP ./PONCT\
+Seront/V \'e9galement/ADV \'e0/P d\'e9couvrir/VINF les/DET travaux/NC (/PONCT livres-objets/NC ,/PONCT calligraphies/NC sur/P tee-shirt/NC ,/PONCT tablettes/NC d'/P argile/NC )/PONCT valorisant/VPR l'/DET \'e9crit/V ,/PONCT les/DET calligraphies/NC ,/PONCT ainsi_que/CC des/DET instruments/NC de/P calligraphie/NC et/CC d'/P \'e9criture/NC ./PONCT\
+Toute/ADJ personne/NC int\'e9ress\'e9e/VPP sera/V la/DET bienvenue/NC ./PONCT\
+Pour/P tout/DET renseignement/NC ,/PONCT t\'e9l./ADV 03.29.79.81.57/ADJ de/P 9/DET \'e0/P 12/DET h/NC et/CC de/P 14/DET \'e0/P 17/DET h/NC 30/ADJ ./PONCT\
+L'/DET EST/NC REPUBLICAIN/NC\
+R\'e9daction/NC ,/PONCT publicit\'e9/NC ,/PONCT petites/ADJ annonces/NC et/CC abonnements/NC ,/PONCT t\'e9l./ADV 03.29.79.40.36/ADJ ;/PONCT\
+fax/NC ./PONCT\
+03.29.45.13.11/ADJ ,/PONCT de/P 9/DET h/NC \'e0/P 12/DET h/NC et/CC de/P 14/DET h/NC \'e0/P 18/DET h/NC ./PONCT\
+L'/DET EST/NPP VOYAGES/NPP\
+Billets/NC ,/PONCT air/NC ,/PONCT fer/NC ,/PONCT mer/NC ,/PONCT tourisme/NC ,/PONCT t\'e9l./ADV 03.29.79.10.51./ADJ ,/PONCT de/P 8/DET h/NC 30/ADJ \'e0/P 12/DET h/NC et/CC de/P 13/DET h/NC 30/ADJ \'e0/P 18/DET h/NC ./PONCT\
+CINEMA/P LE/DET COLISEE/NC\
+\'ab/PONCT Beowulf/NPP \'bb/PONCT 21/DET h/NC ./PONCT\
+\'ab/PONCT Shakespeare/NPP in/ET love/V \'bb/PONCT 20/DET h/NC 45/DET ./PONCT\
+\'ab/PONCT L\'e9gionnaire/NC \'bb/PONCT 21/DET h/NC ./PONCT\
+\'ab/PONCT Le/DET derri\'e8re/P \'bb/PONCT 21/DET h/NC ./PONCT\
+\'ab/PONCT Le/DET double/NC de/P ma/DET moiti\'e9/NC \'bb/PONCT 21/DET h/NC ./PONCT\
+LUDOTHEQUE/NC JEAN-JEUKENS/NPP\
+\'ab/PONCT La/DET bo\'eete/NC \'e0/P jouer/VINF \'bb/PONCT ,/PONCT 2/NC ,/PONCT rue/NC du/P+D Chanoine/NPP Monflier/NPP ,/PONCT de/P 16/DET h/NC 30/ADJ \'e0/P 19/DET h/NC ./PONCT\
+MUSEE/NPP BARROIS/NPP\
+Esplanade/P du/P+D Ch\'e2teau/NPP (/PONCT Ville-Haute/NPP )/PONCT ,/PONCT de/P 14/DET h/NC \'e0/P 18/DET h/NC ./PONCT\
+DECHETTERIE/NC\
+D\'e9chets/NC inertes/ADJ :/PONCT de/P 8/DET h/NC 30/ADJ \'e0/P 11/DET h/NC 30/ADJ ,/PONCT d\'e9p\'f4t/NC de/P la/DET Piscine/NPP ./PONCT\
+OFFICE/NC DE/P TOURISME/NC\
+Ville-Basse/NC :/PONCT 5/ADJ ,/PONCT rue/NC Jeanne-d/NPP '/P Arc/NC ,/PONCT de/P 9/DET h/NC \'e0/P 19/DET h/NC (/PONCT sans/P interruption/NC )/PONCT ,/PONCT t\'e9l./ADV 03.29.79.11.13/ADJ ./PONCT\
+Eglise/NC Saint-Etienne/NPP :/PONCT ouverte/VPP de/P 14/DET h/NC \'e0/P 19/DET h/NC ./PONCT\
+Toul/NPP\
+Anne/NPP Mangeot/NPP ,/PONCT enseignante/ADJ \'e0/P l'/DET \'e9cole/NC de/P Dommartin-l\'e8s-Toul/NPP ,/PONCT vient/V d'/P enregistrer/VINF avec/P sa/DET classe/NC un/DET CD/NC destin\'e9/VPP aux/P+D centres/NC r\'e9gionaux/ADJ de/P documentation/NC p\'e9dagogique/ADJ ./PONCT\
+Vingt/DET et/CC une/DET chansons/NC fran\'e7aises/ADJ interpr\'e9t\'e9es/VPP par/P des/DET \'e9coliers/NC de/P trente-trois/DET classes/NC du/P+D d\'e9partement/NC ,/PONCT soit/CC \'e0/P peu/ADV pr\'e8s/ADV 2.000/DET \'e9l\'e8ves/NC ./PONCT\
+Vitry-le-Fran\'e7ois/NC\
+Organis\'e9/VPP en/P collaboration/NC avec/P les/DET services/NC municipaux/ADJ des/P+D espaces/NC verts/ADJ et/CC l'/DET office/NC de/P tourisme/NC ,/PONCT le/DET concours/NC de/P compositions/NC florales/ADJ a/V d\'e9but\'e9/VPP ./PONCT\
+Les/DET candidats/NC ont/V jusqu'_au/P 28/DET mai/NC pour/P s'/CLR inscrire/VINF ./PONCT\
+La/DET grande/ADJ caravane/NC de/P Maximum/NPP fait/V une/DET halte/NC demain/ADV et/CC mercredi/NC au/P+D hall/NC des/P+D expositions/NC ./PONCT\
+Toujours/ADV aussi/ADV impressionnant/ADJ de/P voir/VINF les/DET chevaux/NC travailler/VINF sur/P la/DET piste/NC ./PONCT\
+Apr\'e8s/P son/DET immense/ADJ succ\'e8s/NC \'e0/P Paris/NPP lors_de/P son/DET s\'e9jour/NC hivernal/ADJ ,/PONCT le/DET cirque/NC Maximum/NPP reprend/V la/DET route/NC pour/P une/DET nouvelle/ADJ tourn\'e9e/NC ./PONCT\
+Deux/DET heures/NC de/P grand/ADJ art/NC dans/P un/DET cercle/NC magique/ADJ de/P sciure/NC et/CC de/P lumi\'e8re/NC sont/V propos\'e9es/VPP au/P+D public/NC ,/PONCT demain/ADV mardi/NC et/CC mercredi/NC au/P+D hall/NC des/P+D Brasseries/NC ./PONCT\
+Une/DET douzaine/NC de/P num\'e9ros/NC feront/V briller/VINF des/DET \'e9toiles/NC magiques/ADJ dans/P le/DET regard/NC des/P+D enfants/NC mais/CC aussi/ADV des/P+D parents/NC ./PONCT\
+Le/DET c\'e9l\'e8bre/ADJ Monsieur/NC Loyal/NPP m\'e8nera/V tambour/NC battant/ADJ la/DET repr\'e9sentation/NC compos\'e9e/VPP de/P tigres/NC ,/PONCT d'/P \'e9l\'e9phants/NC ,/PONCT de/P pigeons/NC ,/PONCT de/P chevaux/NC ./PONCT\
+Les/DET num\'e9ros/NC \'e0/P donner/VINF des/DET frissons/NC dans/P le/DET dos/NC n'/ADV ont/V pas/ADV \'e9t\'e9/VPP oubli\'e9s/VPP avec/P le/DET cordage/NC am\'e9ricain/ADJ ,/PONCT les/DET \'e9quilibristes/NC ,/PONCT ballerine/NC sur/P fil/NC ,/PONCT sangles/NC a\'e9riennes/ADJ .../PONCT\
+Repr\'e9sentations/NC :/PONCT mardi/NC 18/ADJ mai/NC \'e0/P 20/DET h/NC 45/DET et/CC mercredi/NC 19/ADJ mai/NC \'e0/P 14/DET h/NC 30/ADJ et/CC 17/ADJ h/NC 30/ADJ ./PONCT\
+Prix/NC des/P+D places/NC :/PONCT seconde/ADJ ,/PONCT enfant/NC :/PONCT 40/DET F/NC ,/PONCT adulte/ADJ :/PONCT 60/DET F/NC ;/PONCT\
+premi\'e8re/ADJ (/PONCT 80/DET F/NC et/CC 100/DET F/NC )/PONCT ;/PONCT\
+chaise/NC (/PONCT 120/DET F/NC et/CC 140/DET F/NC )/PONCT ;/PONCT\
+loge/V (/PONCT 100/DET F/NC et/CC 120/DET F/NC )/PONCT ./PONCT\
+Sur/P pr\'e9sentation/NC de/P cette/DET annonce/NC ,/PONCT la/DET direction/NC offrira/V une/DET place/NC gratuite/ADJ \'e0/P chaque/DET lecteur/NC pour/P une/DET place/NC payante/ADJ ./PONCT\
+Plus/ADV de/P peur/NC que/CS de/P mal/NC ./PONCT\
+Les/DET habits/NC du/P+D cur/NC\
+Au/P+D point/NC de/P centralisation/NC ,/PONCT les/DET b\'e9n\'e9voles/NC du/P+D Lions-Club/NPP n'/ADV ont/V cess\'e9/VPP de/P remplir/VINF les/DET semi-remorques/NC ./PONCT\
+L'/DET an/NC dernier/ADJ ,/PONCT en/P une/DET journ\'e9e/NC ,/PONCT les/DET membres/NC du/P+D Lions-Club/NPP avaient/V r\'e9colt\'e9/VPP vingt-deux/DET tonnes/NC de/P v\'eatements/NC ,/PONCT leur/DET vente/NC avait/V rapport\'e9/VPP plus/ADV de/P 39.000/DET F/NC ,/PONCT enti\'e8rement/ADV affect\'e9s/VPP \'e0/P l'/DET am\'e9lioration/NC des/P+D conditions/NC de/P vie/NC des/P+D personnes/NC \'e2g\'e9es/ADJ ./PONCT\
+Devant/P le/DET succ\'e8s/NC de/P la/DET premi\'e8re/ADJ op\'e9ration/NC ,/PONCT les/DET b\'e9n\'e9voles/NC se/CLR sont/V remis/VPP \'e0/P pied/NC d'/P uvre/NC ./PONCT\
+T\'f4t/ADV ,/PONCT hier/ADV matin/ADV ,/PONCT ils/CLS \'e9taient/V pr\'e8s_de/P quatre-vingts/PRO \'e0/P sillonner/VINF l'/DET arrondissement/NC \'e0/P l'/DET aff\'fbt/NC de/P sacs/NC d\'e9pos\'e9s/VPP par/P les/DET donateurs/NC ./PONCT\
+Le/DET syst\'e8me/NC \'e9tait/V simple/ADJ ,/PONCT il/CLS suffisait/V \'e0/P chacun/PRO de/P remplir/VINF son/DET ou/CC ses/DET sacs/NC de/P v\'eatements/NC \'e0/P l'/DET effigie/NC du/P+D Lions-Club/NPP ,/PONCT ce/PRO qui/PROREL permettait/V aux/P+D ramasseurs/NC de/P les/CLO rep\'e9rer/VINF ./PONCT\
+Ce/CLS sont/V ainsi/ADV 22/DET camions/NC de/P ramassage/NC qui/PROREL n'/ADV ont/V pas/ADV cess\'e9/VPP de/P la/DET journ\'e9e/NC de/P faire/VINF des/DET allers-retours/NC jusqu'_au/P point/NC de/P centralisation/NC o\'f9/PROREL des/P+D semi-remorques/NC \'e9taient/V charg\'e9s/VPP par/P d'_autres/DET b\'e9n\'e9voles/NC ./PONCT\
+Et/CC de/P l'/DET avis/NC de/P responsable/NC ,/PONCT compte_tenu_du/P nombre/NC important/ADJ de/P sacs/NC collect\'e9s/VPP avant/P la/DET fin/NC de/P l'/DET op\'e9ration/NC ,/PONCT les/DET choses/NC s'/CLR annon\'e7aient/V bien/ADV et/CC les/DET vingt-deux/ADJ tonnes/NC de/P l'/DET an/NC pass\'e9/ADJ devraient/V \'eatre/VINF largement/ADV d\'e9pass\'e9es/ADJ ./PONCT\
+Les/DET v\'eatements/NC r\'e9colt\'e9s/VPP vont/V \'eatre/VINF vendus/VPP \'e0/P la/DET soci\'e9t\'e9/NC Euro-/NPP collecte/NC ./PONCT\
+Le/DET produit/NC de/P cette/DET vente/NC sera/V revers\'e9/VPP aux/P+D personnes/NC \'e2g\'e9es/ADJ et/CC servira/V \'e0/P acheter/VINF du/DET mat\'e9riel/NC de/P gymnastique/NC ,/PONCT des/DET jeux/NC ,/PONCT des/DET postes/NC de/P radio/NC .../PONCT\
+pour/P les/DET maisons/NC de/P retraite/NC et/CC les/DET instances/NC locales/ADJ de/P g\'e9rontologie/NC ./PONCT\
+Piscine/NC des/P+D R\'e9sidences/NC :/PONCT natation/NC pour/P les/DET futures/ADJ mamans/NC\
+135.000/DET visiteurs/NC \'e0/P la/DET foire/NC comtoise/ADJ\
+L'/DET habitat/NC sain/ADJ et/CC naturel/ADJ \'e0/P la/DET foire/NC de/P Mulhouse/NPP\
+La/DET foule/NC \'e0/P Ch\'e8vremont/NPP pour/P le/DET slalom/NC automobile/ADJ\
+Le/DET refuge/NC du/P+D Club/NC alpin/ADJ de/P Belfort/NPP ,/PONCT au/P+D Ballon/NPP d'/P Alsace/NPP ,/PONCT abrite/V des/DET randonneurs/NC tr\'e8s/ADV bien/ADV acclimat\'e9s/VPP ./PONCT\
+Anne/NPP et/CC Eric/NPP sont/V venus/VPP du/P+D Canada/NPP pour/P pr\'e9parer/VINF la/DET \'ab/PONCT fondue/NC qu\'e9b\'e9coise/ADJ \'bb/PONCT !/PONCT\
+Aimer/ADV \'e0/P perdre/VINF la/DET raison/NC\
+\'e0/P ce/DET moment/NC pr\'e9cis/ADJ ,/PONCT la/DET soir\'e9e/NC bascula/V ,/PONCT et/CC les/DET chants/NC qui/PROREL suivirent/V ,/PONCT furent/V autant/ADV d'/P hymnes/NC \'e0/P l'/DET amour/NC ./PONCT\
+Combien/ADV de/P fois/NC les/DET \'ab/PONCT Rhapsods/NC du/P+D Vallon/NPP \'bb/PONCT prononc\'e8rent/V -ils/CLS le/DET mot/NC amour/NC ,/PONCT avec/P un/DET grand/ADJ \'ab/PONCT A/NC \'bb/PONCT ,/PONCT comme/CS dans/P les/DET \'ab/PONCT Grands/ADJ Boulevards/NC \'bb/PONCT ,/PONCT l\'e0/ADV o\'f9/PROREL les/DET petites/ADJ femmes/NC se/CLR pr\'e9lassent/V ?/PONCT\
+Et/CC quant/VPR les/DET deux/ADJ chorales/NC r\'e9unies/ADJ chant\'e8rent/V le/DET po\'e8me/NC d'/P Aragon/NPP ,/PONCT \'ab/PONCT Aimer/NPP \'e0/P perdre/VINF la/DET raison/NC \'bb/PONCT ,/PONCT le/DET public/NC applaudit/V ,/PONCT des/DET gens/NC se/CLR lev\'e8rent/V dans/P la/DET salle/NC ,/PONCT tap\'e8rent/V des/DET pieds/NC ./PONCT\
+Tous/ADJ les/DET acteurs/NC comprirent/V qu'/CS il/CLS fallait/V en/CLO repousser/VINF une/DET avant-derni\'e8re/ADJ ,/PONCT avant/P une/DET derni\'e8re/ADJ ./PONCT\
+Les/DET deux/ADJ formations/NC \'e9taient/V aux/P+D anges/NC ./PONCT\
+Mission/NC accomplie/VPP ./PONCT\
+Quelle/DETWH belle/ADJ prestation/NC fournie/VPP tant/ADV par/P les/DET gens/NC du/P+D Nord/NPP ,/PONCT que/CS ceux/PRO du/P+D Sud/NPP ,/PONCT donnant/VPR la/DET preuve/NC que/CS des/DET soir\'e9es/NC comme/P celle-l\'e0/PRO sont/V \'e0/P vivre/VINF et/CC \'e0/P entendre/VINF ./PONCT\
+Elles/CLS ravivent/V en_tout_cas/ADV les/DET coeurs/NC !/PONCT\
+Quant/VPR le/DET Nord/NPP s'/CLR unit/V au/P+D Sud-Territoire/NPP ,/PONCT pour/P chanter/VINF d'/P une/DET m\'eame/ADJ voix/NC ,/PONCT cela/PRO donne/V du/P+D baume/NC au/P+D coeur/NC ,/PONCT et/CC vous/CLS remue/V les/DET tripes/NC au/P+D plus/ADV profond/ADJ de/P votre/DET \'eatre/NC ./PONCT\
+Samedi/NC soir/NC ,/PONCT le/DET concert/NC donn\'e9/VPP \'e0/P l'/DET \'e9glise/NC d'/P Anjoutey/NPP par/P les/DET \'ab/PONCT Rhapsods/NC du/P+D Vallon/NPP \'bb/PONCT ,/PONCT d'/P \'c9tueffont/NC ,/PONCT et/CC \'ab/PONCT Chante/NPP la/DET Vie/NPP \'bb/PONCT ,/PONCT de/P Grandvillars/NPP ,/PONCT \'e9tait/V \'e0/P cette/DET t\'eate/NC d'/P affiche/NC ./PONCT\
+Pas/ADV \'e9tonnant/VPR que/CS l'/DET \'e9glise/NC fusse/VS comble/NC ,/PONCT habitants/NC de/P Grandvillars/NPP et/CC de/P la/DET zone/NC sous-vosgienne/ADJ se/CLR partageant/VPR les/DET bancs/NC ./PONCT\
+Dans/P le/DET chur/NC ,/PONCT les/DET deux/ADJ formations/NC \'e9taient/V pr\'eates/ADJ ,/PONCT et/CC les/DET applaudissements/NC ne/ADV se/CLR firent/V pas/ADV attendre/VINF d\'e8s/P le/DET lev\'e9e/NC de/P rideau/NC ,/PONCT avec/P \'c9tueffont/NC chantant/ADJ \'ab/PONCT La/DET ronde/NC de/P l'/DET hiver/NC \'bb/PONCT ,/PONCT \'ab/PONCT Le/DET petit/ADJ cheval/NC \'bb/PONCT ,/PONCT puis/CC \'ab/PONCT Le/DET vagabond/NC \'bb/PONCT ,/PONCT avant_de/P c\'e9der/VINF sa/DET place/NC aux/P+D invit\'e9s/VPP du/P+D Sud/NPP ,/PONCT sur/P justement/ADV \'ab/PONCT Je/CLS viens/V du/P+D sud/NC \'bb/PONCT ,/PONCT des/DET paroles/NC de/P Michel/NPP Sardou/NPP et/CC de/P Pierre/NPP Delano\'eb/NPP ,/PONCT sur/P une/DET harmonisation/NC de/P Jean-Claude/NPP Oudot/NPP ./PONCT\
+Le/DET concert/NC \'e9tait/V d\'e9j\'e0/ADV bien/ADV engag\'e9/VPP ,/PONCT \'ab/PONCT Chante/NPP la/DET Vie/NPP \'bb/PONCT entonnait/V \'ab/PONCT Prendre/NC un/DET enfant/NC par/P la/DET main/NC \'bb/PONCT ./PONCT\
+Apr\'e8s/P l'/DET entracte/NC ,/PONCT Grandvillars/NPP faisait/V mont\'e9/VPP les/DET d\'e9cibels/NC ,/PONCT et/CC lorsque/CS sur/P des/DET paroles/NC empreintes/VPP \'e0/P Jean/NPP Ferrat/NPP \'ab/PONCT Nuit/NPP et/CC Brouillard/NPP \'bb/PONCT retentissaient/V ,/PONCT on/CLS comprit/V vite/ADV que/CS rien/PRO ne/ADV valait/V que/ADV de/P chanter/VINF des/DET chansons/NC d'/P amour/NC ./PONCT\
+Avec/P \'ab/PONCT Trois/DET petites/ADJ notes/NC de/P musique/NC \'bb/PONCT ,/PONCT le/DET public/NC \'e9tait/V \'e0/P deux/DET doigts/NC de/P reprendre/VINF le/DET refrain/NC ,/PONCT et/CC quant/ADV le/DET \'ab/PONCT Hourra/NPP \'bb/PONCT toujours/ADV de/P Jean/NPP Ferrat/NPP arriva/V ,/PONCT les/DET choristes/NC lev\'e8rent/V les/DET bras/NC ,/PONCT l'/DET \'e9glise/NC \'e9tait/V chaude/ADJ ,/PONCT et/CC l'/DET on/CLS sentait/V la/DET pression/NC mont\'e9e/ADJ ./PONCT\
+Efforts/NC consid\'e9rables/ADJ\
+Pour/P la/DET suite/NC ,/PONCT il/CLS faudra/V encore/ADV patienter/VINF quelques/DET mois/NC pour/P juger/VINF et/CC se/CLR rendre/VINF compte/V qu'/CS \'e0/P l'/DET image/NC des/P+D voisines/ADJ Menoncourt/NPP ,/PONCT Phaffans/NPP et/CC Lacollonge/NPP ,/PONCT des/DET efforts/NC consid\'e9rables/ADJ ont/V \'e9t\'e9/VPP faits/VPP ./PONCT\
+Cette/DET ann\'e9e/NC ,/PONCT \'c9guenigue/CLS sera/V bien/ADV fleurie/VPP et/CC s'/CLR est/V rang\'e9e/VPP du/P+D m\'eame/ADJ coup/NC dans/P ces/DET petits/ADJ villages/NC qui/PROREL offrent/V en/P \'e9t\'e9/NC ,/PONCT un/DET d\'e9cor/NC de/P r\'eave/NC ,/PONCT color\'e9/VPP ,/PONCT que/CS l'/DET on/CLS a/V plaisir/NC \'e0/P d\'e9couvrir/VINF ./PONCT\
+Au/P+D Nord/NPP ,/PONCT on/CLS conna\'eet/V la/DET route/NC des/P+D villages/NC fleuris/ADJ ./PONCT\
+Juste/ADV un_peu_plus/ADV au/P+D Sud/NPP ,/PONCT celle/PRO de/P la/DET \'ab/PONCT Baroche/NC fleurie/ADJ \'bb/PONCT est/V n\'e9e/VPP ,/PONCT prosp\'e9rera/V pour/P d\'e9fier/VINF le/DET po\'e8te/NC ./PONCT\
+\'e0/P \'c9guenigue/NC et/CC aux/P+D alentours/NC ,/PONCT les/DET roses/NC et/CC les/DET autres/ADJ pistils/NC vont/V \'e9clore/VINF ,/PONCT pour/P embellir/VINF plus/ADV que/CS l'/DET espace/NC d'/P un/DET matin/NC ./PONCT\
+L'/DET association/NC \'ab/PONCT Pictogramme/NPP \'bb/PONCT d'/P Eguenigue/NPP poursuit/V sur/P sa/DET lanc\'e9e/NC ,/PONCT coiffant/VPR bon/ADJ nombre_d'/DET activit\'e9s/NC ./PONCT\
+Outre/P l'/DET \'e9cole/NC de/P musique/NC ,/PONCT elle/CLS dirige/V aussi/ADV la/DET biblioth\'e8que/NC ,/PONCT coiffe/V une/DET chorale/NC ./PONCT\
+Indirectement/ADV ,/PONCT elle/CLS est/V aussi/ADV \'e0/P la/DET base/NC du/P+D fleurissement/NC ./PONCT\
+Toutes/ADJ les/DET communes/NC qui/PROREL se/CLR sont/V ,/PONCT en/P effet/NC ,/PONCT engag\'e9es/VPP dans/P cette/DET entreprise/NC ,/PONCT ont/V compris/VPP que/CS la/DET mobilisation/NC passe/V ,/PONCT au/P+D d\'e9part/NC ,/PONCT par/P l'/DET incitation/NC ./PONCT\
+En/P organisant/VPR un/DET march\'e9/NC aux/P+D fleurs/NC ,/PONCT l'/DET id\'e9e/NC est/V porteuse/ADJ ,/PONCT les/DET habitants/NC se/CLR d\'e9placent/V ,/PONCT investissent/V dans/P les/DET plus/ADV beaux/ADJ rois/NC du/P+D balcon/NC ,/PONCT les/DET plus/ADV belles/ADJ suspensions/NC ./PONCT\
+\'e0/P commencer/VINF par/P la/DET commune/NC ,/PONCT qui/PROREL donne/V l'/DET exemple/NC en/P fleurissant/VPR la/DET mairie-\'e9cole/NC ,/PONCT mais/CC aussi/ADV les/DET jardini\'e8res/NC et/CC les/DET massifs/ADJ le/DET long/ADJ des/P+D rues/NC du/P+D village/NC ,/PONCT la/DET fontaine/NC proche/ADJ de/P la/DET chapelle/NC de/P Sainte-Brigitte/NPP et/CC de/P Saint-Roch/NPP ./PONCT\
+S\'c9ANCES/NC DE/P VACCINATIONS/NC\
+Une/DET premi\'e8re/ADJ s\'e9ance/NC de/P vaccinations/NC antit\'e9tanique/ADJ ,/PONCT antipoliomy\'e9litique/ADJ et/CC antidipht\'e9rique/ADJ aura/V lieu/NC mercredi/NC 19/ADJ mai/NC ,/PONCT \'e0/P 17/DET h/NC 30/ADJ ,/PONCT \'e0/P la/DET mairie/NC ./PONCT\
+Une/DET seconde/ADJ est/V pr\'e9vue/VPP mercredi/NC 16/ADJ juin/NC ,/PONCT \'e0/P la/DET m\'eame/ADJ heure/NC ./PONCT\
+Huits/DET cents/NC g\'e9raniums/NC d\'e9j\'e0/ADV pr\'eats/ADJ pour/P le/DET jury/NC\
+L'/DET \'e9quipe/NC du/P+D Val/NC Fleury/NPP \'e0/P pied/NC d'/P uvre/NC ./PONCT\
+Les/DET ann\'e9es/NC se/CLR suivent/V et/CC se/CLR ressemblent/V ./PONCT\
+Etueffont/NPP ,/PONCT engag\'e9e/VPP dans/P la/DET spirale/NC du/P+D fleurissement/NC ,/PONCT ne/ADV peut/V plus/ADV faire/VINF marche/NC arri\'e8re/ADJ ,/PONCT et/CC surtout/ADV pas/ADV baisser/VINF les/DET bras/NC pour/P d\'e9crocher/VINF une/DET fleur/NC suppl\'e9mentaire/ADJ \'e0/P l'/DET affichette/NC des/P+D villes/NC et/CC villages/NC fleuris/ADJ ./PONCT\
+L'/DET an/NC dernier/ADJ ,/PONCT \'e0/P pareille/ADJ \'e9poque/NC ,/PONCT un/DET coup/NC a/V pourtant/ADV \'e9t\'e9/VPP port\'e9/VPP au_sein_de/P l'/DET association/NC ,/PONCT profond\'e9ment/ADV marqu\'e9e/VPP par/P la/DET disparition/NC brutale/ADJ d'/P une/DET des/P+D chevilles/NC ouvri\'e8re/ADJ ,/PONCT l'/DET \'e9pouse/NC du/P+D pr\'e9sident/NC Robert/NPP Grueber/NPP ./PONCT\
+Il/CLS a/V fallu/VPP alors/ADV se/CLR ressaisir/VINF ,/PONCT faire/VINF en/P sorte/NC que/CS le/DET Val/NC Fleury/NPP surmonte/V l'/DET \'e9preuve/NC ,/PONCT trouve/V un/DET nouveau/ADJ pr\'e9sident/NC pour/P reprendre/VINF les/DET r\'eanes/NC ,/PONCT \'e9pauler/VINF un/DET d\'e9missionnaire/NC forc\'e9/ADJ et/CC pein\'e9/ADJ ./PONCT\
+En/P fin/NC d'/P ann\'e9e/NC derni\'e8re/ADJ ,/PONCT la/DET municipalit\'e9/NC et/CC son/DET maire/NC ,/PONCT G\'e9rard/NPP Guyon/NPP ,/PONCT avaient/V abord\'e9/VPP le/DET sujet/NC en/P conseil/NPP municipal/ADJ ./PONCT\
+D\'e9cision/NPP avait/V alors/ADV \'e9t\'e9/VPP prise/VPP de/P faire/VINF bloc/NC avec/P l'/DET association/NC du/P+D fleurissement/NC et/CC de/P tout/ADV mettre/VINF en/P uvre/NC pour/P d\'e9finir/VINF une/DET politique/NC commune/ADJ en_la_mati\'e8re/ADV ./PONCT\
+Quelques/DET mois/NC plus_tard/ADV ,/PONCT Gabriel/NPP Knopf/NPP ,/PONCT un/DET nouveau/ADJ pr\'e9sident/NC ,/PONCT a/V \'e9t\'e9/VPP \'e9lu/VPP en/P assembl\'e9e/NC g\'e9n\'e9rale/ADJ ,/PONCT pour/P succ\'e9der/VINF \'e0/P Robert/NPP Grueber/NPP ./PONCT\
+Samedi/NC matin/NC ,/PONCT l'/DET \'e9quipe/NC au/P+D complet/ADJ \'e9tait/V \'e0/P pied/NC d'/P uvre/ADV devant/P les/DET ateliers/NC municipaux/ADJ ,/PONCT place/NC du/P+D Sictom/NPP ./PONCT\
+V\'e9ritable/ADJ chantier/NC o\'f9/PROREL les/DET messieurs/NC se/CLR sont/V activ\'e9s/VPP au/P+D remplissage/NC de/P centaines/NC de/P jardini\'e8res/NC ,/PONCT tandis_que/CS les/DET dames/NC plantaient/V avec/P d\'e9licatesse/NC quelque/ADJ huit/ADJ cents/NC g\'e9raniums/NC ./PONCT\
+\'e0/P Etueffont/NPP ,/PONCT le/DET Val/NC Fleury/NPP est/V parfaitement/ADV rod\'e9/VPP ,/PONCT et/CC poss\'e8de/V m\'eame/ADV ,/PONCT comme/P dans/P une/DET entreprise/NC ,/PONCT son/DET syst\'e8me/NC de/P gestion/NC de/P production/NC appropri\'e9/ADJ ./PONCT\
+Simple/ADJ mais/CC efficace/ADJ ,/PONCT avec/P des/DET petites/ADJ fiches/NC pr\'e9-remplies/ADJ ,/PONCT qui/PROREL r\'e9pondent/V \'e0/P une/DET cartographie/NC de/P la/DET commune/NC fleurie/ADJ ./PONCT\
+En/P fait/NC ,/PONCT comme/P sur/P une/DET cha\'eene/NC o\'f9/PROREL l'/DET ouvrier/NC conna\'eet/V la/DET couleur/NC du/P+D v\'e9hicule/NC et/CC presque/ADV le/DET nom/NC du/P+D propri\'e9taire/NC ,/PONCT on/CLS sait/V d\'e8s/P le/DET d\'e9part/NC la/DET destination/NC du/P+D g\'e9ranium/NC mis/VPP en/P jardini\'e8re/NC ./PONCT\
+Reste/V \'e0/P l'/CLO acheminer/VINF sur/P les/DET lieux/NC ,/PONCT puis/CC \'e0/P l'/CLO arroser/VINF durant/P des/DET mois/NC ,/PONCT pour_que/CS le/DET moment/NC venu/VPP ,/PONCT lors_du/P passage/NC fatidique/ADJ du/P+D jury/NC ,/PONCT il/CLS soit/VS au/P+D meilleur/ADJ de/P sa/DET forme/NC ./PONCT\
+Une/DET belle/ADJ organisation/NC ,/PONCT passage/NC oblig\'e9/VPP pour/P les/DET communes/NC qui/PROREL caracolent/V en/P t\'eate/NC du/P+D palmar\'e8s/NC ./PONCT\
+VACCINATION/NC\
+La/DET mairie/NC de/P Bessoncourt/NPP informe/V les/DET habitants/NC du/P+D village/NC qu'/CS une/DET campagne/NC de/P vaccination/NC gratuite/ADJ antit\'e9tanique/ADJ antipoliomy\'e9litique/ADJ et/CC antidipht\'e9rique/ADJ aura/V lieu/NC \'e0/P la/DET mairie/NC le/DET mercredi/NC 19/ADJ mai/NC ,/PONCT ainsi_que/CC le/DET 19/ADJ juin/NC ,/PONCT \'e0/P 16/DET h/NC 30/ADJ ./PONCT\
+Le/DET loto/NC des/P+D majorettes/NC\
+L'/DET association/NC de/P majorettes/NC \'ab/PONCT Bel/NPP '/ET Off/ET Major/NPP \'bb/PONCT annonce/V l'/DET organisation/NC d'/P une/DET soir\'e9e/NC loto/NC ,/PONCT samedi/NC 5/ADJ juin/NC ,/PONCT \'e0/P 20/DET h/NC ,/PONCT \'e0/P la/DET salle/NC paroissiale/ADJ d'/P Offemont/NPP ./PONCT\
+Les/DET gros/ADJ lots/NC seront/V :/PONCT un/DET magn\'e9toscope/NC ,/PONCT une/DET t\'e9l\'e9/NC ,/PONCT un/DET micro-/PREF ondes/NC ,/PONCT des/DET entr\'e9es/NC \'e0/P Europa-Park/NPP ,/PONCT etc./ADV\
+Le/DET prix/NC d'/P un/DET carton/NC est/V de/P 40/DET F/NC et/CC lot/NC de/P trois/DET cartons/NC 100/DET F/NC ./PONCT\
+Il/CLS y/CLO aura/V possibilit\'e9/NC d'/P un/DET carton/NC gratuit/ADJ sous/P r\'e9servation/NC ./PONCT\
+Inscriptions/NC et/CC renseignements/NC au/P+D 03.84.26.35.18/NC ./PONCT\
+ou/CC 06.85.29.07.90/PRO ./PONCT\
+Quatuor/NC soft/ADJ et/CC contemporain/ADJ\
+Adoptant/VPR un/DET style/NC de/P musique/NC vari\'e9/VPP ,/PONCT ils/CLS int\'e9ressent/V un/DET public/NC aussi/ADV divers/ADJ que/CS les/DET amateurs/NC de/P rythmes/NC des/P+D ann\'e9es/NC 50/ADJ ,/PONCT o\'f9/PROREL les/DET amoureux/NC du/P+D style/NC latino-/PREF am\'e9ricain/ADJ (/PONCT bossa-nova/NC ,/PONCT salsa/NC .../PONCT\
+)/PONCT ,/PONCT mais/CC \'e9galement/ADV ceux/PRO du/P+D blues/NC et/CC des/P+D morceaux/NC \'e0/P trois/DET temps/NC ./PONCT\
+Symboliquement/ADV ,/PONCT mais/CC sans/P aucune/DET intention/NC politique/ADJ ni/CC pol\'e9mique/NC ,/PONCT ils/CLS ont/V interpr\'e9t\'e9/VPP un/DET morceau/NC (/PONCT qui/PROREL fait/V partie/NC int\'e9grante/ADJ de/P leur/DET programme/NC )/PONCT du/P+D compositeur/NC yougoslave/ADJ (/PONCT connu/VPP pour/P ses/DET master-class/NC et/CC concerts/NC aux/P+D \'c9tats-Unis/NPP )/PONCT ,/PONCT Dusko/ET Go\'efkowic/ET ,/PONCT dont/PROREL le/DET titre/NC est/V :/PONCT \'ab/PONCT Nights/ET of/ET Skopjie/ET \'bb/PONCT ./PONCT\
+La/DET deuxi\'e8me/ADJ partie/NC a/V essentiellement/ADV \'e9t\'e9/VPP ax\'e9e/VPP sur/P les/DET th\'e8mes/NC \'ab/PONCT jazziques/NC \'bb/PONCT du/P+D c\'e9l\'e8bre/ADJ guitariste/NC pr\'e9f\'e9r\'e9/VPP de/P Pierrot/NPP ,/PONCT qui/PROREL est/V Jim/NPP Hall/NPP ./PONCT\
+Au_total/ADV ,/PONCT une/DET soir\'e9e/NC agr\'e9able/ADJ au/P+D caveau/NC qui/PROREL confirme/V la/DET volont\'e9/NC de/P Delle-Animation/NPP de/P promouvoir/VINF un/DET jazz/NC vari\'e9/VPP qui/PROREL int\'e9ressera/V un/DET public/NC le/DET plus/ADV large/ADJ possible/ADJ ./PONCT\
+Prochain/ADJ rendez-vous/NC :/PONCT vendredi/NC 11/ADJ Juin/NC \'e0/P 21/DET h/NC ,/PONCT pour/P le/DET concert/NC du/P+D \'ab/PONCT Green/ET Dogs/ET Jazz/ET Band/ET \'bb/PONCT qui/PROREL ,/PONCT gr\'e2ce_\'e0/P la/DET famille/NC Zemp/NPP ,/PONCT s'/CLR est/V forg\'e9/VPP une/DET r\'e9putation/NC flatteuse/ADJ dans/P la/DET grande/ADJ famille/NC du/P+D jazz/NC ./PONCT\
+Pour/P son/DET avant-dernier/ADJ concert/NC de/P jazz/NC de/P la/DET saison/NC ,/PONCT le/DET caveau/NC des/P+D remparts/NC recevait/V vendredi/NC le/DET \'ab/PONCT Pierrot/ET Hassler/ET Quartet/ET \'bb/PONCT ./PONCT\
+Devant/P un/DET public/NC restreint/ADJ ,/PONCT mais/CC connaisseur/NC ,/PONCT les/DET quatre/ADJ musiciens/NC :/PONCT Pierrot/NPP Hassler/NPP (/PONCT guitariste/NC de/P Mulhouse/NPP )/PONCT ,/PONCT Fernando/NPP Fontaniles/NPP (/PONCT contrebassiste/NC de/P B\'e2le/NPP )/PONCT ,/PONCT \'c9ric/ET Theiller/ET (/PONCT trompettiste/NC de/P Colmar/NPP )/PONCT et/CC Dominique/NPP Issele/NPP (/PONCT batteur/NC de/P Mulhouse/NPP )/PONCT ont/V produit/VPP un/DET concert/NC de/P qualit\'e9/NC ./PONCT\
+Depuis/P deux/DET ans/NC qu'/PROREL ils/CLS jouent/V ensemble/ADV ,/PONCT ils/CLS ont/V sillonn\'e9/VPP une/DET bonne/ADJ partie/NC de/P l'/DET Europe/NPP ,/PONCT notamment/ADV (/PONCT hormis/P la/DET France/NPP )/PONCT ,/PONCT en/P Allemagne/NPP ,/PONCT Suisse/NPP .../PONCT\
+Ils/CLS ont/V particip\'e9/VPP entre_autres/ADV ,/PONCT aux/P+D festivals/NC de/P jazz/NC de/P Mulhouse/NPP et/CC de/P Colmar/NPP ,/PONCT et/CC c'/CLS \'e9tait/V leur/DET premi\'e8re/ADJ \'e0/P Delle/NPP ./PONCT\
+De/P l'/DET or/NC pour/P Paul/NPP et/CC Marie-Louise/NPP Voiland/NPP\
+Une/DET belle/ADJ f\'eate/NC de/P famille/NC ./PONCT\
+C'/CLS est/V une/DET belle/ADJ histoire/NC qui/PROREL a/V commenc\'e9/VPP \'e0/P Reppe/NPP ,/PONCT le/DET 14/ADJ mai/NC 1949/NC ./PONCT\
+Ce/DET jour-l\'e0/NC ,/PONCT Paul/NPP Voiland/NPP ,/PONCT n\'e9/VPP le/DET 11/ADJ juillet/NC 1923/NC ,/PONCT disait/V \'ab/PONCT oui/NC \'bb/PONCT \'e0/P Marie-Louise/NPP Karrer/NPP qui/PROREL avait/V vu/VPP le/DET jour/NC le/DET 31/ADJ juillet/NC 1927/NC ./PONCT\
+Dimanche/NC ,/PONCT dans/P la/DET propri\'e9t\'e9/NC du/P+D centre/NC du/P+D village/NC ,/PONCT le/DET couple/NC f\'eatait/V donc/ADV ses/DET noces/NC d'/P or/NC apr\'e8s/P avoir/VINF assist\'e9/VPP ,/PONCT la/DET veille/NC ,/PONCT \'e0/P une/DET c\'e9r\'e9monie/NC religieuse/ADJ en/P l'/DET \'e9glise/NC de/P Cravanche/NPP ./PONCT\
+Paul/NPP est/V issu/VPP d'/P une/PRO des/P+D plus/ADV anciennes/ADJ familles/NC de/P la/DET commune/NC ,/PONCT ses/DET grands-parents/NC ,/PONCT cultivateurs/NC ,/PONCT s'/CLR y/CLO \'e9tant/VPR install\'e9s/VPP bien/ADV avant/P 1870/NC ./PONCT\
+Engag\'e9/VPP pour/P la/DET dur\'e9e/NC de/P la/DET guerre/NC ,/PONCT en/P f\'e9vrier/NC 1945/NC ,/PONCT dans/P les/DET forces/NC terrestres/ADJ anti-/PREF a\'e9riennes/ADJ (/PONCT FTA/NPP )/PONCT ,/PONCT il/CLS est/V d\'e9mobilis\'e9/VPP en/P mars/NC 1946/NC et/CC s'/CLR occupe/V alors/ADV du/P+D train/NC de/P culture/NC familial/ADJ ./PONCT\
+En/P novembre/NC 1946/NC ,/PONCT il/CLS entre/V \'e0/P Alstom/NPP pour/P y/CLO rester/VINF jusqu'_\'e0/P l'/DET \'e2ge/NC de/P la/DET retraite/NC prise/VPP en/P f\'e9vrier/NC 1983/NC ./PONCT\
+Il/CLS n'/ADV avait/V pas/ADV cess\'e9/VPP de/P s'/CLR occuper/VINF du/P+D petit/ADJ train/NC de/P culture/NC ./PONCT\
+Marie-Louise/NPP ,/PONCT n\'e9e/VPP \'e0/P Reppe/NPP ,/PONCT est/V la/DET cadette/NC de/P huit/DET enfants/NC et/CC ses/DET parents/NC \'e9taient/V \'e9galement/ADV cultivateurs/NC ./PONCT\
+C'/CLS est/V ce/DET travail/NC qu'/CS elle/CLS exercera/V \'e0/P Cravanche/NPP tout/ADV en/P \'e9levant/VPR ses/DET trois/ADJ enfants/NC :/PONCT Pascal/NPP ,/PONCT technicien/NC Alstom/NPP ;/PONCT\
+Jean-Pierre/NPP ,/PONCT ing\'e9nieur/NC \'e0/P Besan\'e7on/NPP ;/PONCT\
+et/CC Marc/NPP ,/PONCT employ\'e9/VPP \'e0/P ADP/NPP ./PONCT\
+Bien_que/CS retrait\'e9/NC ,/PONCT le/DET couple/NC ne/ADV manque/V pas/ADV d'/P activit\'e9s/NC ./PONCT\
+En/P effet/NC ,/PONCT Paul/NPP est/V l'/DET actuel/ADJ pr\'e9sident/NC du/P+D club/NC du/P+D Bois-Joli/NPP et/CC tous/ADJ deux/ADJ se/CLR consacrent/V au/P+D jardinage/NC et/CC \'e0/P l'/DET entretien/NC de/P leur/DET vaste/ADJ propri\'e9t\'e9/NC ./PONCT\
+Ils/CLS ont/V eu/VPP la/DET joie/NC d'/P avoir/VINF une/DET petite/ADJ fille/NC ,/PONCT H\'e9l\'e8ne/NPP ,/PONCT n\'e9e/VPP le/DET 25/ADJ mai/NC 1985/NC ./PONCT\
+Nos/DET f\'e9licitations/NC ./PONCT\
+Frank/NPP Rivoal/NPP \'e0/P Paris/NPP\
+La/DET saison/NC 1998-99/NC s'/CLR est/V donc/ADV bien/ADV pass\'e9e/VPP ,/PONCT notamment/ADV pour/P deux/DET \'ab/PONCT escrimeurs/NC vedettes/NC \'bb/PONCT du/P+D cercle/NC ,/PONCT Frank/NPP Rivoal/NPP qui/PROREL se/CLR rendra/V \'e0/P Paris/NPP au/P+D championnat/NC de/P France/NPP minimes/ADJ et/CC termine/V 2e/DET au/P+D classement/NC de/P ligue/NC ./PONCT\
+Edwige/NPP Leimbacher/NPP a/V remport\'e9/VPP huit/DET podiums/NC en/P dix/DET sorties/NC ,/PONCT quatre/DET premi\'e8res/ADJ places/NC ,/PONCT une/DET deuxi\'e8me/ADJ place/NC ,/PONCT et/CC trois/DET troisi\'e8mes/ADJ places/NC ,/PONCT dont/PROREL un/DET titre/NC de/P championne/NC de/P Franche-Comt\'e9/NPP ./PONCT\
+Les/DET jeunes/ADJ tireurs/NC du/P+D Cercle/NC d'/P escrime/NC se/CLR sont/V distingu\'e9s/VPP lors_des/P deux/DET derniers/ADJ week-end/NC ./PONCT\
+Dimanche/NC 2/ADJ mai/NC ,/PONCT 16/DET escrimeurs/NC avaient/V effectu\'e9/VPP le/DET d\'e9placement/NC au/P+D tournoi/NC du/P+D Lion/NPP \'e0/P Belfort/NPP ./PONCT\
+Deux/DET jeunes/ADJ fleurettistes/NC sont/V mont\'e9s/VPP sur/P le/DET podium/NC :/PONCT Frank/NPP Rivoal/NPP est/V 3e/DET en/P cat\'e9gorie/NC minime/ADJ ,/PONCT Edwige/NPP Leimbacher/NPP est/V 3e/DET en/P cat\'e9gorie/NC pupillette/ADV ./PONCT\
+Les/DET autres/ADJ escrimeurs/NC ont/V obtenu/VPP des/DET r\'e9sultats/NC honorables/ADJ ./PONCT\
+\'e0/P l'/DET \'e9p\'e9e/NC ,/PONCT A/NC ./PONCT\
+Morel/NPP est/V 15e/ADJ ,/PONCT C/NC ./PONCT\
+Th\'e9venot/ADV 10e/DET et/CC P./NPP Buchwalter/NPP 1e/ADJ ./PONCT\
+Ils/CLS sont/V surclass\'e9s/VPP en/P cadet/ADJ ./PONCT\
+Au/P+D fleuret/NC ,/PONCT K/NPP ./PONCT\
+Rivoal/NC est/V 5/ADJ \'bb/PONCT ,/PONCT Fanclan/NC 9e/ADJ ,/PONCT R/NPP ./PONCT\
+Cardot/NC 10e/ADJ ,/PONCT Vaubert/NPP 7e/ADJ ,/PONCT N/NPP ./PONCT\
+H\'e9berl\'e9/NC 13e/ADJ ,/PONCT M./NC Bergdoll/NPP 26e/ADJ ./PONCT\
+Les/DET cinq/NC suivants/ADJ ,/PONCT poussins/NC ont/V tir\'e9/VPP en/P cat\'e9gorie/NC pupille/NC :/PONCT B/NC ./PONCT\
+Py/NPP 17e/ADJ ,/PONCT A/NC ./PONCT\
+Vieuxchange/NC 25e/ADJ ,/PONCT A/NC ./PONCT\
+Dattler/ADV 26e/ADJ ,/PONCT M./NC Ferney/NPP 34e/ADJ ,/PONCT A/NC ./PONCT\
+Py/NPP 35e/ADJ ./PONCT\
+Le/DET week-end/NC suivant/ADJ ,/PONCT les/DET tireurs/NC du/P+D cercle/NC sont/V all\'e9s/VPP \'e0/P Besan\'e7on/NPP o\'f9/PROREL se/CLR sont/V d\'e9roul\'e9s/VPP les/DET championnats/NC de/P Ligue/DET cat\'e9gories/NC benjamin/NC et/CC pupille/NC ./PONCT\
+Samedi/NC ,/PONCT Edwige/NPP Leimbacher/NPP \'e9tait/V 3e/DET en/P cat\'e9gorie/NC benjamin/NC alors_qu'/CS elle/CLS est/V pupilette/ADV ./PONCT\
+K/NPP ./PONCT\
+Rivoal/NC est/V 6e/ADJ ,/PONCT R/NPP ./PONCT\
+Cardot/NC 28e/ADJ ,/PONCT P./NPP Chery-Cavy/NPP 35e/ADJ ./PONCT\
+Le/DET dimanche/NC ,/PONCT Edwige/NPP Leimbacher/NPP \'e9tait/V 1\'e8re/ADJ en/P pupillette/NC et/CC Krystel/NPP Rivoal/NPP 2e/ADJ ./PONCT\
+Guillaume/NPP Jeanblanc/NPP s'/CLR est/V plac\'e9/VPP 8e/DET sur/P 41/DET pour/P sa/DET premi\'e8re/ADJ ann\'e9e/NC d'/P escrime/NC ./PONCT\
+Valentin/NPP Aubert/NPP \'e9tait/V 9e/ADJ ,/PONCT Nicolas/NPP H\'e9berl\'e9/NPP 19e/NC et/CC Maxime/NPP Bergdoll/NPP 20e/ADJ ./PONCT\
+Projet/NC de/P route/NC foresti\'e8re/ADJ\
+Apr\'e8s/P la/DET rencontre/NC entre/P les/DET repr\'e9sentants/NC des/P+D communes/NC de/P Giromagny/NPP ,/PONCT d'/P Auxelles-Haut/NPP et/CC de/P l'/DET Office/NC national/ADJ des/P+D for\'eats/NC (/PONCT ONF/NPP )/PONCT ,/PONCT il/CLS a/V \'e9t\'e9/VPP d\'e9cid\'e9/VPP d'/P autoriser/VINF l'/DET ONF/NPP \'e0/P entreprendre/VINF les/DET d\'e9marches/NC n\'e9cessaires/ADJ \'e0/P la/DET mise/NC \'e0/P sa/DET place/NC d'/P une/DET liaison/NC des/P+D routes/NC foresti\'e8res/ADJ des/P+D deux/ADJ communes/NC ,/PONCT de/P l'/DET extr\'e9mit\'e9/NC de/P la/DET route/NC foresti\'e8re/ADJ d'/P Auxelles-Haut/NPP au/P+D bas/ADJ de/P l'/DET \'e9pingle/V de/P la/DET \'ab/PONCT Grosse/NC Roche/NPP \'bb/PONCT ./PONCT\
+Ces/DET travaux/NC pourraient/V \'eatre/VINF ex\'e9cut\'e9s/VPP au_cours_de/P l'/DET ann\'e9e/NC 2000/ADJ pour/P une/DET mise/NC en/P service/NC de/P ce/DET raccordement/NC en/P 2001/ADJ ./PONCT\
+\'e0_compter_de/P cette/DET date/NC ,/PONCT toutes/ADJ les/DET sorties/NC de/P bois/NC par/P grumiers/NC se/CLR feraient/V par/P la/DET route/NC foresti\'e8re/ADJ de/P Giromagny/NPP ,/PONCT moyennant/P une/DET participation/NC annuelle/ADJ d'/P Auxelles-Haut/NPP pour/P les/DET travaux/NC d'/P entretien/NC de/P cette/DET route/NC ./PONCT\
+D\'e9chetterie/NC mobile/ADJ :/PONCT le/DET prochain/ADJ passage/NC de/P la/DET d\'e9chetterie/NC mobile/ADJ sur/P la/DET grande/ADJ place/NC aura/V lieu/NC vendredi/NC 9/ADJ juillet/NC de/P 12/DET h/NC \'e0/P 15/DET h/NC ./PONCT\
+Il/CLS est/V rappel\'e9/VPP qu'/CS il/CLS est/V interdit/VPP de/P d\'e9poser/VINF des/DET ordures/NC m\'e9nag\'e8res/ADJ encombrantes/ADJ sur/P la/DET place/NC ,/PONCT entre/P les/DET dates/NC de/P passage/NC de/P la/DET d\'e9chetterie/NC ,/PONCT ainsi_que/CC bouteilles/NC ,/PONCT papiers/NC ,/PONCT plastiques/ADJ \'e0/P c\'f4t\'e9/NC des/P+D containers/NC ./PONCT\
+Si/CS ceux-ci/PRO sont/V pleins/ADJ ,/PONCT il/CLS faut/V pr\'e9venir/VINF la/DET mairie/NC qui/PROREL contactera/V alors/ADV le/DET Syndicat/NC intercommunal/ADJ de/P collecte/NC et/CC traitement/NC des/P+D ordures/NC m\'e9nag\'e8res/ADJ de/P la/DET zone/NC sous-vosgiennes/ADJ (/PONCT SICTOM/NPP )/PONCT pour/P les/CLO faire/VINF vider/VINF ./PONCT\
+\'ab/PONCT Conserver/NC cet/DET \'e9co-/NC point/NC propre/ADJ demande/V simplement/ADV un_peu/ADV de/P civisme/NC ,/PONCT de/P respect/NC des/P+D autres/PRO .../PONCT\
+et/CC de/P soi-m\'eame/PRO ./PONCT\
+Si/CS chacun/PRO fait/V un/DET effort/NC ,/PONCT on/CLS peut/V y/CLO arriver/VINF ./PONCT\
+Malheureusement/ADV ,/PONCT les/DET gardes-nature/NC ont/V d\'e9j\'e0/ADV d\'fb/VPP commencer/VINF \'e0/P verbaliser/VINF ,/PONCT et/CC ils/CLS continueront/V si/CS cela/PRO est/V n\'e9cessaire/ADJ \'bb/PONCT ,/PONCT pr\'e9cise/V la/DET municipalit\'e9/NC ./PONCT\
+Malgr\'e9/P la/DET bise/NC ,/PONCT les/DET premiers/ADJ nageurs/NC ont/V lanc\'e9/VPP la/DET saison/NC de/P baignade/NC du/P+D Malsaucy/NPP ,/PONCT hier/ADV apr\'e8s-midi/NC ./PONCT\
+Premi\'e8res/ADJ brasses/NC de/P la/DET saison/NC dans/P une/DET eau/NC \'e0/P 18/DET degr\'e9s/NC ./PONCT\
+Doucement/ADV ,/PONCT doucement/ADV ./PONCT\
+Avec/P un/DET soleil/NC comme/P celui/PRO d'/P hier/ADV apr\'e8s-midi/NC ,/PONCT cela/PRO valait/V le/DET coup/NC de/P laisser/VINF tra\'eener/VINF un/DET objectif/NC du/P+D c\'f4t\'e9/NC des/P+D rives/NC du/P+D Malsaucy/NPP :/PONCT bingo/NC !/PONCT\
+Malgr\'e9/P la/DET bise/NC et/CC une/DET eau/NC qui/PROREL atteignait/V difficilement/ADV les/DET dix-/PREF huit/ADJ degr\'e9s/NC ,/PONCT quelques/DET jeunes/NC intr\'e9pides/ADJ se/CLR sont/V essay\'e9s/VPP \'e0/P plonger/VINF un/DET doigt/NC ,/PONCT une/DET gambette/NC pour/P souvent/ADV en/CLO rester/VINF l\'e0/ADV ./PONCT\
+Brrr/NC .../PONCT\
+./PONCT Mais/CC la/DET r\'e8gle/NC ne/ADV vaut/V souvent/ADV que/ADV par/P l'/DET exception/NC et/CC il/CLS s'/CLR est/V tout_de_m\'eame/ADV trouv\'e9/VPP quelques/DET hardis/ADJ pour/P se/CLR lancer/VINF ./PONCT\
+Quelques/DET brasses/NC seulement/ADV mais/CC c'/CLS est/V fait/VPP :/PONCT le/DET Malsaucy/NPP a/V connu/VPP ses/DET premiers/ADJ baigneurs/NC de/P l'/DET ann\'e9e/NC et/CC ce/DET premier/ADJ vrai/ADJ week-end/NC de/P beau/ADJ temps/NC va/V assur\'e9ment/ADV en/CLO appeler/VINF d'_autres/PRO ./PONCT\
+En_tout_cas/ADV ,/PONCT ce/CLS ne/ADV sont/V pas/ADV les/DET dizaines/NC de/P Belfortains/NPP qui/PROREL ont/V retrouv\'e9/VPP ,/PONCT hier/ADV ,/PONCT les/DET joies/NC du/P+D farniente/NC sur/P le/DET gazon/NC ,/PONCT qui/PROREL vont/V s'/CLR en/CLO plaindre/VINF ./PONCT\
+D\'e9c\'e8s/NC de/P Mme/NC Mett\'e9tal/NPP\
+Caroline/NC Mett\'e9tal/NPP \'e9tait/V \'e2g\'e9e/ADJ de/P 85/DET ans/NC ./PONCT\
+Mme/NC Caroline/NC Mett\'e9tal/NPP est/V d\'e9c\'e9d\'e9e/VPP ,/PONCT samedi/NC \'e0/P l'/DET h\'f4pital/NC de/P Belfort/NPP o\'f9/PROREL elle/CLS se/CLR trouvait/V depuis/P un/DET mois/NC ,/PONCT apr\'e8s/P avoir/VINF \'e9t\'e9/VPP gravement/ADV malade/ADJ pendant/P plusieurs/DET ann\'e9es/NC ./PONCT\
+Elle/CLS \'e9tait/V \'e2g\'e9e/ADJ de/P 85/DET ans/NC ./PONCT\
+N\'e9e/VPP le/DET 11/ADJ mars/NC 1914/NC \'e0/P Belfort/NPP ,/PONCT dans/P la/DET famille/NC Sh\'f6nstein/NPP ,/PONCT au_sein_d'/P une/DET fratrie/NC de/P six/DET enfants/NC ,/PONCT elle/CLS est/V demeur\'e9e/VPP belfortaine/ADV toute/ADJ sa/DET vie/NC ./PONCT\
+Elle/CLS avait/V \'e9pous\'e9/VPP Andr\'e9/NPP Chevillot/NPP ./PONCT\
+Mme/NC Mett\'e9tal/NPP \'e9tait/V la/DET maman/NC de/P sept/DET enfants/NC :/PONCT Genevi\'e8ve/NPP ,/PONCT Andr\'e9e/NPP ,/PONCT Colette/NPP ,/PONCT Pierre/NPP ,/PONCT Jean-Marc/NPP ,/PONCT Emile/NPP et/CC Alain/NPP ./PONCT\
+Elle/CLS avait/V eu/VPP la/DET grande/ADJ peine/NC de/P perdre/VINF son/DET mari/NC en/P 1943/NC ./PONCT\
+Elle/CLS avait/V \'e9galement/ADV \'e9t\'e9/VPP tr\'e8s/ADV \'e9prouv\'e9e/VPP par/P la/DET mort/NC successive/ADJ de/P trois/PRO de/P ses/DET fils/NC en/P l'/DET espace/NC d'/P une/DET vingtaine/NC d'/P ann\'e9es/NC ./PONCT\
+Elle/CLS avait/V \'e9pous\'e9/VPP ,/PONCT en/P deuxi\'e8mes/ADJ noces/NC ,/PONCT Julien/NPP Mett\'e9tal/NPP qu'/CS elle/CLS avait/V eu/VPP le/DET grand/ADJ chagrin/NC de/P perdre/VINF en/P 1974/NC ./PONCT\
+La/DET d\'e9funte/ADJ avait/V travaill\'e9/VPP dans/P sa/DET jeunesse/NC \'e0/P l'/DET Alstom/NPP mais/CC s'/CLR \'e9tait/V rapidement/ADV consacr\'e9e/VPP \'e0/P la/DET lourde/ADJ t\'e2che/NC de/P s'/CLR occuper/VINF de/P sa/DET grande/ADJ famille/NC ./PONCT\
+Des/DET enfants/NC qu'/PROREL elle/CLS a/V \'e9lev\'e9s/VPP fermement/ADV ,/PONCT avec/P courage/NC mais/CC aussi/ADV avec/P une/DET tr\'e8s/ADV grande/ADJ affection/NC ./PONCT\
+Tant/ADV que/CS sa/DET vue/NC le/DET lui/CLO avait/V permis/VPP ,/PONCT elle/CLS s'/CLR \'e9tait/V livr\'e9e/VPP \'e0/P des/DET travaux/NC de/P tricot/NC et/CC crochet/NC pour/P toute/ADJ sa/DET famille/NC \'e0/P son/DET domicile/NC du/P+D 1/ADJ rue/NC de/P Bavilliers/NPP ,/PONCT dans/P le/DET quartier/NC de/P La/DET P\'e9pini\'e8re/NPP ./PONCT\
+Ces/DET derni\'e8res/ADJ ann\'e9es/NC ,/PONCT elle/CLS avait/V vu/VPP sa/DET famille/NC s'/CLR agrandir/VINF avec/P l'/DET arriv\'e9e/NC de/P nombreux/ADJ petits-enfants/NC et/CC arri\'e8res-petits-enfants/NC qu'/PROREL elle/CLS ch\'e9rissait/V ./PONCT\
+La/DET d\'e9funte/ADJ \'e9tait/V la/DET grand-m\'e8re/NC de/P notre/DET confr\'e8re/NC ,/PONCT Pascal/NPP Chevillot/NPP ,/PONCT journaliste/NC \'e0/P l'/DET agence/NC de/P L'/DET Est/NC R\'e9publicain/ADJ de/P Belfort/NPP ./PONCT\
+Les/DET obs\'e8ques/NC religieuses/ADJ seront/V c\'e9l\'e9br\'e9es/VPP mardi/NC \'e0/P 14/DET h/NC 30/ADJ en/P l'/DET \'e9glise/NC Sainte-Jeanne-d/NPP '/P Arc/NC de/P La/DET P\'e9pini\'e8re/NPP ./PONCT\
+\'e0/P toute/ADJ la/DET famille/NC ,/PONCT L'/DET Est/NC R\'e9publicain/ADJ pr\'e9sente/ADJ ses/DET condol\'e9ances/NC ./PONCT\
+Br\'fbl\'e9/VPP \'e0/P une/DET main/NC par/P un/DET feu/NC de/P cuisine/NC\
+Un/DET feu/NC de/P cuisine/NC s'/CLR est/V d\'e9clar\'e9/VPP ,/PONCT samedi/NC vers/P 20/DET h/NC 55/DET ,/PONCT dans/P un/DET appartement/NC du/P+D 13/ADJ R\'e9sidence/NC Clerc/NPP \'e0/P Delle/NPP ./PONCT\
+L'/DET huile/NC d'/P une/DET casserole/NC a/V d\'e9clench\'e9/VPP l'/DET incendie/NC ,/PONCT qui/PROREL s'/CLR est/V propag\'e9/VPP \'e0/P un/DET meuble/NC situ\'e9/VPP au/P+D dessus/ADV ./PONCT\
+Le/DET feu/NC a/V pu/VPP \'eatre/VINF \'e9teint/VPP par/P un/DET occupant/NC des/P+D lieux/NC mais/CC ce/DET dernier/ADJ s'/CLR est/V br\'fbl\'e9/VPP \'e0/P une/DET main/NC dans/P la/DET manuvre/NC ./PONCT\
+Patrick/NPP Amaury/NPP a/V \'e9t\'e9/VPP secouru/VPP par/P les/DET pompiers/NC de/P Delle/NPP et/CC transport\'e9/VPP au/P+D centre/NC hospitalier/ADJ pour/P y/CLO \'eatre/VINF soign\'e9/VPP ./PONCT\
+Bless\'e9/VPP par/P une/DET branche/NC\
+Un/DET habitant/NC de/P Joncherey/NPP a/V \'e9t\'e9/VPP l\'e9g\'e8rement/ADV bless\'e9/ADJ \'e0/P la/DET t\'eate/NC par/P une/DET branche/NC ,/PONCT hier/ADV vers/P 14/DET h/NC 45/DET ,/PONCT \'e0/P l'/DET \'e9tang/NC Verchat/NPP \'e0/P Joncherey/NPP ./PONCT\
+Souffrant/VPR d'/P une/DET plaie/NC au/P+D cuir/NC chevelu/ADJ ,/PONCT Deniz/NPP Zeller/NPP ,/PONCT 43/DET ans/NC ,/PONCT a/V \'e9t\'e9/VPP transport\'e9/VPP \'e0/P l'/DET h\'f4pital/NC par/P les/DET pompiers/NC de/P Delle/NPP ./PONCT\
+Alerte/ADV \'e0/P Bessoncourt/NPP\
+Une/DET alerte/NC au/P+D centre/NC informatique/ADJ \'ab/PONCT Peugeot/NPP \'bb/PONCT s'/CLR est/V d\'e9clench\'e9e/VPP ,/PONCT hier/ADV vers/P 16/DET h/NC 40/ADJ ,/PONCT \'e0/P Bessoncourt/NPP ./PONCT\
+\'e0/P leur/DET arriv\'e9e/NC ,/PONCT les/DET pompiers/NC de/P Belfort/NPP ,/PONCT Bavilliers/NPP et/CC Valdoie/NPP ont/V pu/VPP constater/VINF que/CS le/DET sinistre/NC \'e9tait/V tr\'e8s/ADV limit\'e9/VPP ./PONCT\
+Il/CLS \'e9tait/V ,/PONCT semble/V -t-il/CLS ,/PONCT \'e0/P mettre/VINF sur/P le/DET compte/NC de/P la/DET fum\'e9e/NC d\'e9gag\'e9e/VPP par/P un/DET climatiseur/NC qui/PROREL avait/V chauff\'e9/VPP ./PONCT\
+L'/DET intervention/NC s'/CLR est/V finalement/ADV r\'e9sum\'e9/VPP \'e0/P peu/ADV de/P choses/NC ./PONCT\
+Sac/P arrach\'e9/VPP \'e0/P une/DET octog\'e9naire/NC\
+Une/DET dame/NC de/P 82/DET ans/NC a/V \'e9t\'e9/VPP victime/NC d'/P un/DET vol/NC \'e0/P l'/DET arrach\'e9/VPP ,/PONCT hier/ADV vers/P 14/DET h/NC 35/ADJ ,/PONCT rue/NC de/P Ch\'e2teaudun/NPP \'e0/P Belfort/NPP ./PONCT\
+Deux/DET jeunes/ADJ gens/NC lui/CLO ont/V vol\'e9/VPP son/DET sac/NC \'e0/P main/NC en/P tirant/VPR dessus/ADV ./PONCT\
+Les/DET voleurs/NC ont/V pris/VPP la/DET fuite/NC ./PONCT\
+La/DET victime/NC ,/PONCT qui/PROREL n'/ADV a/V pas/ADV \'e9t\'e9/VPP bless\'e9e/VPP mais/CC dont/PROREL on/CLS imagine/V l'/DET \'e9motion/NC ,/PONCT a/V port\'e9/VPP plainte/NC aupr\'e8s_des/P services/NC de/P police/NC ./PONCT\
+Nid/NPP d'/P abeilles/NC\
+Les/DET pompiers/NC de/P Delle/NPP sont/V intervenus/VPP hier/ADV en/P fin/NC d'/P apr\'e8s-midi/NC pour/P enlever/VINF un/DET nid/NC d'/P abeilles/NC signal\'e9/VPP \'e0/P proximit\'e9/NC de/P l'/DET \'e9cole/NC des/P+D Sitelles/NC \'e0/P Delle/NPP ./PONCT\
+Les/DET enfants/NC n'/ADV auront/V donc/ADV pas/ADV d'/DET excuses/NC pour/P ne_pas/ADV aller/VINF en/P classe/NC aujourd'_hui/ADV ./PONCT\
+Le/DET final/ADJ du/P+D Challenge/NPP Primagaz-ESTA/NPP a/V eu/VPP droit/NC \'e0/P un/DET magnifique/ADJ lever/VINF de/P soleil/NC ./PONCT\
+Et/CC \'e0/P des/DET compliments/NC !/PONCT\
+D\'e9coller/NC de/P Fontaine/NPP ,/PONCT accompagner/VINF la/DET \'ab/PONCT bise/NC \'bb/PONCT ,/PONCT et/CC jouer/VINF avec/P le/DET feu/NC de/P Dieu/NPP !/PONCT\
+Du/P+D 2\'e8me/ADJ Challenge/NC Primagaz-ESTA/NPP de/P montgolfi\'e8res/NC (/PONCT ER/NPP des/P+D 15/ADJ et/CC 16/ADJ mai/NC )/PONCT ,/PONCT tr\'e8s/ADV bien/ADV pr\'e9par\'e9/VPP par/P l'/DET \'e9cole/NC sup\'e9rieure/ADJ de/P la/DET rue/NC Fr\'e9ry/NPP et/CC les/DET membres/NC du/P+D Club/NC a\'e9rostatique/ADJ de/P Franche-Comt\'e9/NPP ,/PONCT il/CLS faut/V bien/ADV retenir/VINF la/DET beaut\'e9/NC ./PONCT\
+Que/PROWH dire/VINF de/P la/DET troisi\'e8me/ADJ \'e9preuve/NC de/P dimanche/NC matin/NC ,/PONCT juste/ADV au/P+D lever/VINF du/P+D soleil/NC ,/PONCT sinon/CC la/DET splendeur/NC des/P+D rondeurs/NC m\'eal\'e9es/VPP dans/P une/DET lumi\'e8re/NC douce/ADJ ./PONCT\
+Tous/ADJ ces/DET ballons/NC jouant/VPR avec/P l'/DET astre/NC roi/NC :/PONCT magnifique/ADJ !/PONCT\
+Rappeler/VINF aussi/ADV le/DET s\'e9rieux/ADJ de/P l'/DET organisation/NC ,/PONCT les/DET efforts/NC d\'e9ploy\'e9s/VPP par/P les/DET \'ab/PONCT estatistes/NC \'bb/PONCT et/CC salu\'e9s/VPP par/P le/DET pr\'e9sident/NC Philippe/NPP Schnoebelen/NPP l\'e9gitimement/ADV satisfait/VPP ./PONCT\
+R\'e9ussite/NC des/P+D quarante/ADJ pilotes/NC ,/PONCT compliment\'e9s/VPP par/P Alain/NPP Poulet/NPP ,/PONCT directeur/NC des/P+D vols/NC et/CC pr\'e9sident/NC de/P la/DET f\'e9d\'e9ration/NC fran\'e7aise/ADJ d'/P a\'e9rostation/NC ./PONCT\
+Avec/P la/DET caution/NC majeure/ADJ de/P la/DET DGAC/NPP (/PONCT direction/NC g\'e9n\'e9rale/ADJ de/P l'/DET aviation/NC civile/ADJ )/PONCT ,/PONCT qui/PROREL avait/V d\'e9l\'e9gu\'e9/NC sur_place/ADV Maude/NPP Payet/NPP du/P+D conseil/NC m\'e9dical/ADJ de/P l'/DET a\'e9ronautique/NC civile/ADJ ./PONCT\
+Ce/CLS n'/ADV est/V d'_ailleurs/ADV pas/ADV par/P hasard/NC si/CS M./NC Poulet/NPP a/V tenu/VPP \'e0/P f\'e9liciter/VINF plus/ADV particuli\'e8rement/ADV Claude/NPP Schwebel/NPP ,/PONCT \'ab/PONCT cheville/NC ouvri\'e8re/ADJ \'bb/PONCT des/P+D a\'e9rostiers/NC belfortains/ADV ,/PONCT les/DET membres/NC du/P+D club/NC montgolfi\'e8re/NC de/P l'/DET ESTA/NPP (/PONCT bravo/NC Sylvain/NPP !/PONCT\
+)/PONCT ,/PONCT ainsi_que/CS la/DET jeune/NC pilote/V bourguignonne/ADJ Christine/NPP Hennetier/NPP ./PONCT\
+Marie-Line/NC Boisset/NPP (/PONCT Primagaz/NPP )/PONCT et/CC Daniel/NPP Jacquemin/NPP (/PONCT Cora/NPP )/PONCT ont/V couvert/NC de/P cadeaux/NC les/DET meilleurs/ADJ des/P+D quatres/ADJ \'e9preuves/NC :/PONCT Meyer/NPP (/PONCT Berne/NPP )/PONCT ,/PONCT Maurice/NPP (/PONCT Abb\'e9villers/NPP )/PONCT ,/PONCT Roulet/NPP (/PONCT Hte/NC Savoie/NPP )/PONCT ,/PONCT Landry/NPP (/PONCT Gen\'e8ve/NPP )/PONCT ,/PONCT Risler/NPP (/PONCT Belfort/NPP )/PONCT ,/PONCT Gouinguene/NPP (/PONCT Paris/NPP )/PONCT ,/PONCT Schwebel/NPP (/PONCT Belfort/NPP )/PONCT ,/PONCT Masson/NPP (/PONCT Belfort/NPP )/PONCT ,/PONCT Petit/NPP (/PONCT Paris/NPP )/PONCT ,/PONCT Poussardin/NPP (/PONCT Is\'e8re/NPP )/PONCT ,/PONCT Guittard/NPP (/PONCT Arc-et-Senans/NPP )/PONCT ,/PONCT et/CC Maurice/NPP (/PONCT Abb\'e9villers/NPP )/PONCT ./PONCT\
+Une/DET belle/ADJ page/NC du/P+D \'ab/PONCT plus/ADV l\'e9ger/ADJ que/CS l'/DET air/NC \'bb/PONCT vient/V donc/ADV d'/P \'eatre/VINF tourn\'e9e/VPP par/P Philippe/NPP Schnbelen/NPP et/CC ses/DET amis/NC ./PONCT\
+Avec/P l'/DET appui/NC du/P+D pr\'e9sident/NC Poulet/NPP ,/PONCT ils/CLS songent/V d\'e9j\'e0/ADV au/P+D 3\'e8me/ADJ Challenge/NC Primagaz-ESTA/NPP (/PONCT mai/NC de/P l'/DET an/NC 2000/NC )/PONCT et/CC \'e0/P l'/DET organisation/NC en/P 2001/ADJ des/P+D championnats/NC de/P France/NPP ./PONCT\
+Et/CC avec/P les/DET beaux/ADJ jours/NC ,/PONCT des/DET vols/NC de/P montgolfi\'e8res/NC chaque/DET fin/NC de/P semaine/NC (/PONCT tel/ADJ :/PONCT 03.84.23.88.13/NC )/PONCT ./PONCT\
+Le/DET grand/ADJ air/NC\
+Et/CC alors/ADV ,/PONCT que/ADV fait/V -il/CLS au/P+D refuge/NC de/P Club/NC alpin/ADJ fran\'e7ais/ADJ du/P+D Langenberg/NPP ?/PONCT\
+Il/CLS y/CLO respire/V le/DET grand/ADJ air/NC ,/PONCT et/CC enlace/V le/DET panorama/NC des/P+D Alpes/NPP ./PONCT\
+Dans/P la/DET chaude/NC maison/NC du/P+D CAF/NPP ,/PONCT simplement/ADV parce_qu'/CS il/CLS avait/V pr\'e9vu/VPP de/P dormir/VINF dans/P celui/PRO des/P+D SRB/NPP d\'e9truit/V derni\'e8rement/ADV par/P un/DET incendie/NC ./PONCT\
+Et/CC en/P famille/NC s'/CS il/CLS vous/CLO pla\'eet/V !/PONCT\
+Son/DET fils/NC \'c9ric/ADV ,/PONCT parti/VPP depuis/P deux/DET ans/NC au/P+D Canada/NPP avec/P Anne/NPP sa/DET compagne/NC ,/PONCT tenait/V \'e0/P marquer/VINF sa/DET visite/NC de/P belle/ADJ mani\'e8re/NC ./PONCT\
+Ainsi/ADV ,/PONCT ravis/VPP et/CC heureux/ADJ ,/PONCT Lucien/NPP et/CC \'c9ric/NPP ont/V pu/VPP ,/PONCT gr\'e2ce_\'e0/P \'c9tienne/NC Delon/NPP du/P+D CAF/NPP ,/PONCT r\'e9unir/VINF ceux/PRO La/DET rue/NC de/P la/DET Gare/NPP ,/PONCT entre/P le/DET carrefour/NC rue/NC de/P la/DET Gare/NPP (/PONCT CD/NC 21/ADJ bis/ADJ )/PONCT et/CC la/DET rue/NC du/P+D Printemps/NPP et/CC entre/P la/DET rue/NC de/P la/DET Gare/NPP CD/NC 21/ADJ bis/ADJ et/CC le/DET CD/NC 7/ADJ ,/PONCT sera/V interdite/VPP \'e0/P la/DET circulation/NC ,/PONCT entre/P le/DET vendredi/NC 21/ADJ \'e0/P 14/DET h/NC ,/PONCT et/CC le/DET mercredi/NC 26/ADJ ,/PONCT \'e0/P 24/DET h/NC ./PONCT\
+Le/DET stationnement/NC des/P+D poids-lourds/NC et/CC bus/NC sera/V interdit/VPP place/NC de/P la/DET Gare/NPP ,/PONCT rue/NC de/P la/DET Gare/NPP et/CC Grande/ADJ Rue/NPP ,/PONCT du/P+D mardi/NC 18/ADJ au/P+D jeudi/NC 27/ADJ mai/NC ./PONCT\
+L'/DET EST/NC REPUBLICAIN/NC\
+R\'e9daction/NC ,/PONCT abonnements/NC ,/PONCT publicit\'e9/NC ,/PONCT 8/NC ,/PONCT rue/NC Carnot/NPP ,/PONCT t\'e9l./ADV 03.83.73.07.56/ADJ ./PONCT\
+Fax/NC :/PONCT 03.83.73.10.46/PRO ./PONCT\
+Bureau/NC ouvert/VPP de/P 9/DET h/NC \'e0/P 12/DET h/NC et/CC de/P 14/DET h/NC \'e0/P 19/DET h/NC ./PONCT\
+L'/DET EST/NPP VOYAGES/NPP\
+R\'e9servations/NC billets/NC d'/P avion/NC ,/PONCT chemin/NC de/P fer/NC ,/PONCT bateau/ADJ ,/PONCT croisi\'e8res/NC ,/PONCT voyages/NC \'e0/P forfait/NC ,/PONCT s\'e9jour/NC mer/NC et/CC montagne/NC ,/PONCT Club/NC M\'e9diterran\'e9e/NC ,/PONCT locations/NC th\'e9\'e2tre/NC ,/PONCT etc./ADV Bureau/NC ouvert/VPP de/P 14/DET h/NC \'e0/P 18/DET h/NC 30/ADJ ,/PONCT t\'e9l./ADV 03.83.73.47.21/ADJ ./PONCT\
+LES/DET URGENCES/NC\
+M\'e9decin/NC \'e0_partir_de/P 20/DET h/NC :/PONCT docteur/NC Wuilbercq/NPP ,/PONCT rue/NC Gambetta/NPP ,/PONCT t\'e9l./ADV 03.83.73.73.83/ADJ ./PONCT\
+Pharmacie/NC de/P 9/DET h/NC \'e0/P 12/DET h/NC :/PONCT Bregeard/NPP ,/PONCT 18/ADJ ,/PONCT rue/NC G\'e9n\'e9ral/NC Leclerc/NPP ,/PONCT de/P 12/DET h/NC \'e0/P 14/DET h/NC et/CC de/P 19/DET h/NC \'e0/P 21/DET h/NC :/PONCT Conchon/NPP ,/PONCT 15/ADJ ,/PONCT rue/NC Chanzy/NPP et/CC en_dehors_des/P heures/NC d'/P ouverture/NC normales/ADJ ,/PONCT s'/CLR adresser/VINF au/P+D commissariat/NC de/P police/NC ./PONCT\
+Infirmi\'e8re/ADJ :/PONCT Mme/NC Naudin/NPP Bahin/NPP ,/PONCT t\'e9l./ADV 03.83.73.47.66/ADJ ./PONCT\
+SOS/NC Ambulances/NPP :/PONCT poste/NC permanent/ADJ des/P+D sapeurs-pompiers/NC ,/PONCT t\'e9l./ADV 18/ADJ ./PONCT\
+Services/ET de/P police/NC :/PONCT commissariat/NC de/P police/NC ,/PONCT t\'e9l./ADV 03.83.76.17.17/ADJ ;/PONCT\
+police/NC secours/NC ,/PONCT t\'e9l./ADV 17/ADJ ./PONCT\
+DEPANNAGES/NC\
+EDF-GDF/NPP d\'e9pannage/NC :/PONCT \'e9lectricit\'e9/NC ,/PONCT t\'e9l./ADV 03.83.74.53.92/ADJ ;/PONCT\
+gaz/NC ,/PONCT t\'e9l./ADV 03.83.73.50.91/ADJ ./PONCT\
+Eau/NPP :/PONCT CGE/NPP ,/PONCT t\'e9l./ADV 03.83.73.21.59/ADJ ./PONCT\
+D\'e9pannage/P auto/NC :/PONCT t\'e9l./ADV 06.07.58.07.43/ADJ ./PONCT\
+EXPOSITIONS/NC\
+Chapelle/NC du/P+D ch\'e2teau/NC d'/P Adom\'e9nil/NPP :/PONCT \'ab/PONCT Mati\'e8res/NPP et/CC bleu/ADJ lumi\'e8re/NC \'bb/PONCT de/P Fran\'e7ois/NPP Ruaud/NPP ,/PONCT de/P 18/DET h/NC \'e0/P 20/DET h/NC ./PONCT\
+Semaine/ADJ des/P+D arts/NC :/PONCT 18/DET h/NC ,/PONCT au/P+D lyc\'e9e/NC Boutet-de-Monvel/NPP ./PONCT\
+Mus\'e9e/NC du/P+D quartier/NC Stainville/NPP :/PONCT de/P 10/DET h/NC \'e0/P 12/DET h/NC et/CC de/P 14/DET h/NC \'e0/P 19/DET h/NC ./PONCT\
+Mus\'e9e/NC du/P+D cycle/NC et/CC de/P la/DET moto/NC :/PONCT place/NC de/P la/DET 2e/NC DC/NPP (/PONCT face_au/P ch\'e2teau/NC )/PONCT ,/PONCT de/P 9/DET h/NC \'e0/P 12/DET h/NC et/CC de/P 14/DET h/NC \'e0/P 18/DET h/NC ./PONCT\
+Conservatoire/NC de/P la/DET broderie/NC perl\'e9e/ADJ :/PONCT de/P 14/DET h/NC \'e0/P 18/DET h/NC ,/PONCT au/P+D ch\'e2teau/NC ./PONCT\
+Mus\'e9e/NC du/P+D ch\'e2teau/NC :/PONCT de/P 10/DET h/NC \'e0/P 12/DET h/NC et/CC de/P 14/DET h/NC \'e0/P 18/DET h/NC ./PONCT\
+LUDOTHEQUE/NC\
+Ferm\'e9e/NC ./PONCT\
+MEDIATHEQUE/NC\
+Ferm\'e9e/NC ./PONCT\
+PISCINE/NC\
+De/P 17/DET h/NC 15/ADJ \'e0/P 20/DET h/NC ./PONCT\
+DECHETTERIE/NC\
+De/P 9/DET h/NC \'e0/P 12/DET h/NC et/CC de/P 14/DET h/NC \'e0/P 19/DET h/NC ./PONCT\
+CINEMA/NC\
+Imp\'e9rial/ADJ 1/NC :/PONCT 14/DET h/NC 30/ADJ ,/PONCT \'ab/PONCT Shakespeare/NPP in/ET love/V \'bb/PONCT (/PONCT VO/NPP sous-titr\'e9e/VPP )/PONCT ;/PONCT\
+21/DET h/NC ,/PONCT \'ab/PONCT Urban/NPP legend/ET \'bb/PONCT ./PONCT\
+Imp\'e9rial/NC 2/ADJ :/PONCT 14/DET h/NC 30/ADJ et/CC 21/ADJ h/NC ,/PONCT \'ab/PONCT Le/DET derri\'e8re/P \'bb/PONCT ./PONCT\
+Imp\'e9rial/ADJ 3/NC :/PONCT 14/DET h/NC 30/ADJ et/CC 21/ADJ h/NC ,/PONCT \'ab/PONCT Je/CLS r\'e8gle/V mon/DET pas/NC sur/P le/DET pas/NC de/P mon/DET p\'e8re/NC \'bb/PONCT ./PONCT\
+CRAM/NPP ,/PONCT point/NC d'/P accueil/NC retraite/NC :/PONCT de/P 9/DET h/NC \'e0/P 11/DET h/NC 30/ADJ et/CC de/P 13/DET h/NC 30/ADJ \'e0/P 16/DET h/NC ,/PONCT au/P+D centre/NC administratif/ADJ ,/PONCT 7/ADJ ,/PONCT rue/NC Ren\'e9/NPP Basset/NPP ./PONCT\
+Conf\'e9rence/NC :/PONCT \'ab/PONCT Les/DET artistes/NC au/P+D service/NC de/P Stanislas/NPP \'bb/PONCT ,/PONCT \'e0/P 14/DET h/NC 30/ADJ ,/PONCT salle/NC de/P la/DET Livr\'e9e/NPP au/P+D ch\'e2teau/NC ,/PONCT par/P Claude/NPP Bresson/NPP ,/PONCT conf\'e9renci\'e8re/NC au/P+D mus\'e9e/NC lorrain/ADJ \'e0/P Nancy/NPP ./PONCT\
+Conf\'e9rence-d\'e9bat/NC :/PONCT \'ab/PONCT Echec/NC scolaire/ADJ et/CC troubles/NC de/P l'/DET apprentissage/NC chez/P l'/DET enfant/NC \'bb/PONCT ,/PONCT 20/DET h/NC 30/ADJ ,/PONCT salle/NC de/P la/DET Livr\'e9e/NPP au/P+D ch\'e2teau/NC ,/PONCT par/P la/DET PEEP/NPP ./PONCT\
+Lun\'e9ville-Accueil/NPP :/PONCT 14/DET h/NC ,/PONCT scrabble/NC initiation/NC (/PONCT groupe/NC A/NC )/PONCT ,/PONCT au/P+D local/ADJ 2C/NC ,/PONCT rue/NC Ren\'e9/NPP Basset/NPP ./PONCT\
+Cours/NC d'/P anglais/NC :/PONCT de/P 20/DET h/NC \'e0/P 21/DET h/NC 30/ADJ ,/PONCT \'e0/P l'/DET espace/NC culturel/ADJ (/PONCT salle/NC de/P musique/NC )/PONCT ./PONCT\
+ACPG-CATM/NPP VEUVES/NPP\
+Une/DET c\'e9r\'e9monie/NC du/P+D souvenir/NC aura/V lieu/NC \'e0/P Montauville/NPP ,/PONCT le/DET 6/ADJ juin/NC ,/PONCT avec/P d\'e9part/NC en/P car/CC de/P Lun\'e9ville/NPP ./PONCT\
+Les/DET inscriptions/NC doivent/V se/CLR faire/VINF au/P+D plus/ADV t\'f4t/ADV et/CC avant/P le/DET 25/ADJ mai/NC au/P+D 03.83.73.38.92/NC (/PONCT 170/DET F/NC +/P transport/NC ,/PONCT selon/P le/DET nombre_de/DET participants/NC )/PONCT ./PONCT\
+Don/NPP du/P+D sang/NC :/PONCT la/DET fid\'e9lit\'e9/NC r\'e9compens\'e9e/VPP\
+Donneurs/NC et/CC b\'e9n\'e9voles/NC \'e0/P l'/DET honneur/NC ./PONCT\
+H\'f4te/NC de/P la/DET municipalit\'e9/NC et/CC de/P son/DET premier/ADJ magistrat/NC ,/PONCT Bernard/NPP Batho/NPP ,/PONCT l'/DET amicale/ADJ des/P+D donneurs/NC de/P sang/NC a/V accueilli/VPP ,/PONCT \'e0_l'_occasion_de/P son/DET assembl\'e9e/NC g\'e9n\'e9rale/ADJ ,/PONCT le/DET Dr/NC Jacquot/NPP ,/PONCT Bernard/NPP Bury/NPP (/PONCT pr\'e9sident/NC d\'e9partemental/ADJ )/PONCT et/CC les/DET maires/NC des/P+D communes/NC voisines/ADJ ./PONCT\
+Cr\'e9\'e9e/VPP en/P 1978/NC sous/P l'/DET impulsion/NC de/P Freddy/NPP Lotz/NPP ,/PONCT l'/DET amicale/ADJ vivait/V alors/ADV ,/PONCT avec/P 100/DET dons/NC par/P collecte/NC ,/PONCT sa/DET belle/ADJ \'e9poque/NC ./PONCT\
+Aujourd'_hui/ADV ,/PONCT les/DET chiffres/NC ne/ADV franchissent/V plus/ADV la/DET borne/V des/P+D 30/ADJ pr\'e9l\'e8vements/NC ./PONCT\
+Que/CS dire/VINF des/DET r\'e9actions/NC d'/P incompr\'e9hension/NC ,/PONCT voire/CC de/P col\'e8re/NC des/P+D nombreuses/ADJ personnes/NC ,/PONCT qui/PROREL sont/V refus\'e9es/VPP \'e0_l'_issue_d'/P un/DET questionnaire/NC m\'e9dical/ADJ de_plus_en_plus/ADV draconien/ADJ ./PONCT\
+Comment/ADVWH faire/VINF comprendre/VINF ,/PONCT \'e0/P ceux/PRO qui/PROREL peuvent/V donner/VINF ,/PONCT qu'/CS offrir/VINF son/DET sang/NC est/V un/DET geste/NC s\'fbr/ADJ ./PONCT\
+Comment/ADVWH chasser/VINF l'/DET image/NC entach\'e9e/VPP par/P l'/DET \'ab/PONCT affaire/NC du/P+D sang/NC contamin\'e9/VPP \'bb/PONCT ?/PONCT\
+Bernard/NPP Bury/NPP conclua/V sa/DET plaidoirie/NC pour/P recruter/VINF et/CC fid\'e9liser/VINF de/DET nouveaux/ADJ donneurs/NC ,/PONCT par/P la/DET lettre/NC tout_\'e0_fait/ADV \'e9mouvante/ADJ d'/P une/DET accident\'e9e/ADJ ,/PONCT sauv\'e9e/VPP par/P la/DET transfusion/NC :/PONCT \'ab/PONCT L'/DET accident/NC de/P parcours/NC nous/CLS guette/V tous/PRO ,/PONCT \'e0/P chaque/DET instant/NC :/PONCT une/DET h\'e9morragie/NC ,/PONCT le/DET coma/NC puis/CC le/DET noir/NC ./PONCT\
+Quatre/DET poches/NC de/P sang/NC .../PONCT\
+et/CC de_nouveau/ADV la/DET lumi\'e8re/NC ./PONCT\
+Durant/P ces/DET longues/ADJ heures/NC qu'/PROREL a/V dur\'e9/VPP ma/DET transfusion/NC ,/PONCT j'/CLS ai/V beaucoup/ADV pens\'e9/VPP \'e0/P vous/PRO ,/PONCT les/DET donneurs/NC \'bb/PONCT ./PONCT\
+Apr\'e8s/P le/DET rapport/NC financier/ADJ pr\'e9sent\'e9/VPP par/P Christine/NPP Saint-Eve/NPP ,/PONCT et/CC qui/PROREL met/V en/P \'e9vidence/NC l'/DET importance/NC des/P+D subventions/NC municipales/ADJ ,/PONCT l'/DET heure/NC \'e9tait/V \'e0/P la/DET r\'e9compense/V des/P+D b\'e9n\'e9voles/NC et/CC donneurs/NC \'e9m\'e9rites/ADJ ./PONCT\
+Les/DET r\'e9cipiendaires/NC :/PONCT m\'e9daille/NC d'/P argent/NC ,/PONCT Val\'e9rie/NPP Conard/NPP (/PONCT Xousse/NPP )/PONCT ,/PONCT Eric/NPP Fagnot/NPP (/PONCT Leintrey/NPP )/PONCT ,/PONCT Bruno/NPP Briel/NPP (/PONCT Leintrey/NPP )/PONCT ;/PONCT\
+m\'e9daille/NC d'/P argent/NC avec/P \'e9toile/NC ,/PONCT Alain/NPP Rochaix/NPP (/PONCT Emberm\'e9nil/NPP )/PONCT ;/PONCT\
+m\'e9daille/NC d'/P or/NC ,/PONCT Anne-Marie/NPP Michel/NPP (/PONCT V\'e9ho/NPP )/PONCT ,/PONCT V\'e9ronique/NPP Flavenot/NPP (/PONCT Xousse/NPP )/PONCT ,/PONCT G\'e9rard/NPP Berger/NPP (/PONCT Bl\'e2mont/NPP )/PONCT ,/PONCT Jacky/NPP F\'e8ve/NPP \'e0/P titre/NC posthume/ADJ ,/PONCT G\'e9rard/NPP Millot/NPP \'e0/P titre/NC posthume/ADJ ./PONCT\
+Enfin/ADV ,/PONCT Claude/NPP Boura/NPP et/CC Michel/NPP Closse/NPP ont/V re\'e7u/VPP la/DET m\'e9daille/NC de/P reconnaissance/NC de/P l'/DET \'e9tablissement/NC de/P transfusion/NC sanguine/ADJ de/P Lorraine/NPP et/CC Monique/NPP Diebold/NPP a/V \'e9t\'e9/VPP \'e9lev\'e9e/VPP au/P+D grade/NC de/P chevalier/NC dans/P l'/DET ordre/NC du/P+D m\'e9rite/NC du/P+D sang/NC ./PONCT\
+Vice-pr\'e9sidente/ADJ de/P l'/DET amicale/ADJ depuis/P 20/DET ans/NC ,/PONCT elle/CLS a/V effectu\'e9/VPP son/DET premier/ADJ don/NC en/P 1962/NC et/CC a/V re\'e7u/VPP successivement/ADV la/DET m\'e9daille/NC d'/P argent/NC en/P 1972/NC ,/PONCT la/DET m\'e9daille/NC d'/P argent/NC avec/P \'e9toile/NC en/P 1979/NC ,/PONCT puis/CC la/DET m\'e9daille/NC d'/P or/NC en/P 1992/NC ./PONCT\
+Cette/DET haute/ADJ distinction/NC qui/PROREL r\'e9compense/V son/DET d\'e9vouement/NC et/CC sa/DET disponibilit\'e9/NC en_faveur_du/P geste/NC qui/PROREL sauve/V ,/PONCT lui/CLO a/V \'e9t\'e9/VPP remise/VPP par/P Bernard/NPP Bury/NPP ,/PONCT pr\'e9sident/NC d\'e9partemental/ADJ des/P+D associations/NC des/P+D donneurs/NC de/P sang/NC b\'e9n\'e9voles/NC ./PONCT\
+La/DET prochaine/ADJ collecte/NC organis\'e9e/VPP \'e0/P Leintrey/NPP auralieu/P jeudi/NC 29/ADJ juillet/NC ,/PONCT de/P 16/DET h/NC \'e0/P 19/DET h/NC 30/ADJ ./PONCT\
+La/DET Julie/NPP fait/V un/DET triomphe/NC\
+\'ab/PONCT La/DET noce/NC de/P la/DET Julie/NPP \'bb/PONCT a/V enthousiasm\'e9/VPP petits/ADJ et/CC grands/ADJ ./PONCT\
+C'/CLS \'e9tait/V un/DET v\'e9ritable/ADJ d\'e9fi/NC pour/P la/DET Cantarelle/NPP ,/PONCT que/CS ce/DET spectacle/NC musical/ADJ ,/PONCT pr\'e9par\'e9/VPP de_longue_date/ADV par/P la/DET chorale/NC ,/PONCT sous/P la/DET direction/NC de/P son/DET chef/NC de/P chur/NC ,/PONCT Bernadette/NPP ,/PONCT second\'e9e/VPP au/P+D piano/NC par/P Mich\'e8le/NPP ./PONCT\
+C'/CLS \'e9tait/V un/DET travail/NC \'ab/PONCT maison/NC \'bb/PONCT ,/PONCT enti\'e8rement/ADV \'e9crit/V ,/PONCT mis/VPP en/P sc\'e8ne/NC ,/PONCT jou\'e9/VPP ./PONCT\
+Et/CC chant\'e9/VPP ,/PONCT bien/ADV entendu/VPP ,/PONCT par/P la/DET Cantarelle/NPP et/CC la/DET chorale/NC de/P jeunes/NC ./PONCT\
+Tout/PRO se/CLR passait/V dans/P un/DET caf\'e9/NC \'ab/PONCT chez/P Doudou/NPP \'bb/PONCT ,/PONCT o\'f9/PROREL l'/DET on/CLS entrait/V comme/P dans/P un/DET moulin/NC ,/PONCT caf\'e9/NC extraordinairement/ADV anim\'e9/ADJ ,/PONCT tenu/VPP par/P Doudou/NPP et/CC son/DET \'e9pouse/NC ,/PONCT \'ab/PONCT la/DET caissi\'e8re/NC du/P+D grand/ADJ caf\'e9/NC avec/P son/DET chignon/NC qu'/PROREL est/V toujours/ADV bien/ADV coiff\'e9/VPP \'bb/PONCT ./PONCT\
+Dans/P ce/DET caf\'e9/NC arrivent/V des/DET personnes/NC bien/ADV \'e9tranges/ADJ ,/PONCT telles/ADJ ces/DET femmes/NC de/P m\'e9nage/NC qui/PROREL dansent/V le/DET madison/NC avec/P leurs/DET balais/NC ,/PONCT et/CC boivent/V une/DET petite/ADJ liqueur/NC ,/PONCT juste/ADV pour/P se/CLR remonter/VINF le/DET moral/ADJ ./PONCT\
+Leur/DET succ\'e8dent/V une/DET pr\'e9sentatrice/NC d'/P une/DET m\'e9t\'e9o/NC \'ab/PONCT \'e0/P la/DET carte/NC .../PONCT\
+du/P+D S\'e2non/NPP \'bb/PONCT ,/PONCT un/DET facteur/NC ,/PONCT une/DET Ukrainienne/NPP ,/PONCT un/DET percepteur/NC qui/PROREL d\'e9fend/V sa/DET cause/NC \'ab/PONCT Faut/V des/P+D sous/NC \'bb/PONCT ./PONCT\
+Mais/CC bient\'f4t/ADV Charlie/NPP ,/PONCT qui/PROREL est/V tomb\'e9/VPP amoureux/ADJ de/P Marie-Louise/NPP durant/P la/DET messe/NC ,/PONCT se/CLR trouve/V aux/P+D prises/NC avec/P \'ab/PONCT le/DET bataillon/NC des/P+D vertueuses/ADJ \'bb/PONCT ,/PONCT offusqu\'e9es/VPP par/P son/DET attitude/NC \'ab/PONCT Charlie/NPP ,/PONCT t'/CLO iras/V pas/ADV au/P+D paradis/NC !/PONCT\
