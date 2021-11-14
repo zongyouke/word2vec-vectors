@@ -1,6 +1,5 @@
-————————————————
- README du programme haz_w2v
-————————————————
+README du programme haz_w2v
+———————————————————————————
 
 Ce readme a pour but d’expliquer l’utilisation du programme SGNS (Skip-Gram avec échantillonnage négatif) en ligne de commande. 
 
